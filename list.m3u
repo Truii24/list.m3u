@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1,Canale Stream
-https://cdn.v3.media-217.d2b.you/hls/tv/14688458/1/1/master.m3u8?t=c269c415ba6860bc&e=1788033962894&b=3029#User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36&Referer=https://v.vidxgo.co/&Sec-Fetch-Dest=empty&Sec-Fetch-Site=cross-site
+#EXTVLCOPT:http-referrer=https://v.vidxgo.co/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://cdn.v3.media-217.d2b.you/hls/tv/14688458/1/1/master.m3u8?t=c269c415ba6860bc&e=1788033962894&b=3029
