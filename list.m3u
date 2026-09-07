@@ -1,5 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1,Canale Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://vixcloud.co/playlist/266002?token=c5184e38d0b8387a9f97a471c6ea98d6&expires=1793972258&h=1&lang=it
