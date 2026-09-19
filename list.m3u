@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1,Diavolo Veste Prada 2
-https://s13-o3.97bf1.com/hls/W2eCvkeTttJ10c1pni7PxabIwTBAnMiU/master.m3u8
+http://localhost:8000/stream.m3u8
