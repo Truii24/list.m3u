@@ -1,13 +1,30 @@
-name: Esegui Script M3U
+name: Aggiorna Playlist M3U
+
 on:
-  workflow_dispatch: # Permette l'avvio manuale via API / Shortcuts
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Scarica il codice repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - run: pip install requests bs4 PyGithub
-      - run: python tuo_script.py
+          python-version: '3.13'
+
+      - name: Installa le dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Esegui lo script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          REPO_NAME: "Truii24/list.m3u"
+          TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN }}
+          CF_CLEARANCE_COOKIE: ${{ secrets.CF_CLEARANCE_COOKIE }}
+        run: python script.py
