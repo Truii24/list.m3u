@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tmdb:24428" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="Film", The Avengers
-https://vixcloud.co/playlist/204303?b=1&token=9315972ad9dcd9a55e0261fcf6d7e361&expires=1795029099&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="tmdb:1560520" tvg-logo="https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="Film", Batman: Knightfall Part 1: Knightfall
-https://vixcloud.co/playlist/784018?b=1&token=6597c5c3a4445c13f9401b10fd773447&expires=1795029100&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="Film", The Avengers
+https://vixcloud.co/playlist/204303?b=1&token=2c0d7e1fb44bc598f38fb3836a53082b&expires=1795029133&h=1&scz=1&lang=it
