@@ -1,43 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="Film", The Avengers
-https://vixcloud.co/playlist/204303?b=1&token=d582285e60005e94aabe9768ff5b6e3b&expires=1795036049&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/204303?b=1&token=78a6874cede93db0269a9a3478fac765&expires=1795036245&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="1560520" tvg-name="Batman: Knightfall Part 1: Knightfall" tvg-logo="https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="Film", Batman: Knightfall Part 1: Knightfall
-https://vixcloud.co/playlist/784018?token=56a070444e4ade0f60594e84828efb6a&expires=1795036049&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/784018?token=d2234d02efe2316cbc08abacb4c9b69e&expires=1795036246&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="1204680" tvg-name="Coyote vs. Acme" tvg-logo="https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg" group-title="Film", Coyote vs. Acme
-https://vixcloud.co/playlist/785563?b=1&token=def916971e1bce7d086c20c9c8b72d65&expires=1795036050&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/785563?b=1&token=7fdd282466ee9905746d559a46741eac&expires=1795036246&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E01" tvg-name="Teach You a Lesson - S01E01 - Episode 1" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E01 - Episode 1
-https://vixcloud.co/playlist/739989?token=ff072458f0870c4ff6231070e3f8c170&expires=1795036050&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739989?token=906d295bf78e2466be47d7e50c0c7c0d&expires=1795036247&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E02" tvg-name="Teach You a Lesson - S01E02 - Episode 2" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E02 - Episode 2
-https://vixcloud.co/playlist/739990?token=17efd52540e3d43443330051add7819f&expires=1795036051&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739990?token=ed855de5483894e578a2c5e95262b4fd&expires=1795036248&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E03" tvg-name="Teach You a Lesson - S01E03 - Episode 3" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E03 - Episode 3
-https://vixcloud.co/playlist/739991?token=d15292ff6ec21804871f0f00a0e8a245&expires=1795036052&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739991?token=2949656482237ce3927dacf5aebb7380&expires=1795036248&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E04" tvg-name="Teach You a Lesson - S01E04 - Episode 4" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E04 - Episode 4
-https://vixcloud.co/playlist/739992?token=47272b6ed1be11c5f58628df69683a09&expires=1795036052&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739992?token=5865625456da2c7701e8251d2bb63676&expires=1795036249&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E05" tvg-name="Teach You a Lesson - S01E05 - Episode 5" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E05 - Episode 5
-https://vixcloud.co/playlist/739993?token=a8e6c92eb75d25bbf62811fb1f0d0518&expires=1795036053&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739993?token=990f23a326ed7982e00984a7d92bf895&expires=1795036249&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E06" tvg-name="Teach You a Lesson - S01E06 - Episode 6" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E06 - Episode 6
-https://vixcloud.co/playlist/739994?token=7d8b501fd3039bea3aa393e8bc476926&expires=1795036053&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739994?token=24b070d435e3c71fe8930cf620d82d78&expires=1795036250&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E07" tvg-name="Teach You a Lesson - S01E07 - Episode 7" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E07 - Episode 7
-https://vixcloud.co/playlist/739995?token=cc1771335243809e9b3eaa711cb26f6b&expires=1795036054&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739995?token=c40c2f475df88d13861f620c31f354a3&expires=1795036250&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E08" tvg-name="Teach You a Lesson - S01E08 - Episode 8" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E08 - Episode 8
-https://vixcloud.co/playlist/739996?token=6760ea2970a8d4379f91734449dd11a7&expires=1795036054&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739996?token=fb5a675f084466dc26af32e24f2c9917&expires=1795036250&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E09" tvg-name="Teach You a Lesson - S01E09 - Episode 9" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E09 - Episode 9
-https://vixcloud.co/playlist/739997?token=a720d6ebb6810788b0aab1050ea05a01&expires=1795036055&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739997?token=5ae7860b3952108e30f5a78eaca97509&expires=1795036251&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="276161_S01E10" tvg-name="Teach You a Lesson - S01E10 - Episode 10" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E10 - Episode 10
-https://vixcloud.co/playlist/739998?token=cf70d0668ffb4c6a4bfb480094441d86&expires=1795036055&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/739998?token=db4b8db6148fcaad1bbacdc71505358a&expires=1795036251&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E01" tvg-name="Neagley - S01E01 - L Train" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E01 - L Train
-https://vixcloud.co/playlist/787580?b=1&token=e2f152d30ee59b8a7064be02360f6a61&expires=1795036056&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787580?b=1&token=44507a97a410871e9795761a3c6ea168&expires=1795036253&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E02" tvg-name="Neagley - S01E02 - Team Building Exercises" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E02 - Team Building Exercises
-https://vixcloud.co/playlist/787581?b=1&token=22ced0b07ae011fb751933da68a1cf8d&expires=1795036056&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787581?b=1&token=8616d2b83b67a1ae28693d2ab0a6f84a&expires=1795036253&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E03" tvg-name="Neagley - S01E03 - Hammer Time" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E03 - Hammer Time
-https://vixcloud.co/playlist/787582?b=1&token=39baa6a44619813816eccb0588e5e424&expires=1795036057&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787582?b=1&token=2713e957731ceaa2e58e512879095a53&expires=1795036253&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E04" tvg-name="Neagley - S01E04 - Breaking & Entering" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E04 - Breaking & Entering
-https://vixcloud.co/playlist/787583?b=1&token=d8882d2ea3d6a6655e16ed354dec52a7&expires=1795036057&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787583?b=1&token=332f334bb350011ed33d7c5026aef80e&expires=1795036254&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E05" tvg-name="Neagley - S01E05 - Trip" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E05 - Trip
-https://vixcloud.co/playlist/787584?b=1&token=8f9c7482a81e68f49dd43a43fb6b3143&expires=1795036057&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787584?b=1&token=a73ba9f3aa16d69e2324648f421f6362&expires=1795036254&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E06" tvg-name="Neagley - S01E06 - Rocked" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E06 - Rocked
-https://vixcloud.co/playlist/787585?b=1&token=e38710fcba1b18946464a6d5d95bece1&expires=1795036058&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787585?b=1&token=11720bf346831abb5eb0fbb695785b39&expires=1795036255&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E07" tvg-name="Neagley - S01E07 - Lebron's No Jordan" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E07 - Lebron's No Jordan
-https://vixcloud.co/playlist/788222?b=1&token=7bd7b0bd898aef8c01d7e74052801ba4&expires=1795036058&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/788222?b=1&token=66cee754e761f84997141c337847c559&expires=1795036255&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="273207_S01E08" tvg-name="Neagley - S01E08 - Touched" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E08 - Touched
-https://vixcloud.co/playlist/787587?b=1&token=b92b38a640845ce9f293ea81ee19d654&expires=1795036059&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/787587?b=1&token=ed2a5fbc0e6a147d318517ffbbd84e03&expires=1795036255&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="969681" tvg-name="Spider-Man: Brand New Day" tvg-logo="https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" group-title="Film", Spider-Man: Brand New Day
+https://vixcloud.co/playlist/777603?b=1&token=b08bddf132b633fce729bca160e8a69a&expires=1795036256&h=1&scz=1&lang=it
