@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,Diavolo Veste Prada 2
+#EXTINF:-1,Diavolo Veste Prada
 http://localhost:8000/stream.m3u8
