@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="Film", The Avengers
-https://vixcloud.co/playlist/204303?b=1&token=a559e68ea0b3b740ca870ce8348e9290&expires=1795030545&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/204303?b=1&token=a3b9bc3eeec6e85ffd8fe7bb00ff0e5f&expires=1795030600&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="1560520" tvg-name="Batman: Knightfall Part 1: Knightfall" tvg-logo="https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="Film", Batman: Knightfall Part 1: Knightfall
-https://vixcloud.co/playlist/784018?token=11b5afaf4675d4ae83211d4d85ce38ad&expires=1795030546&h=1&scz=1&lang=it
+https://vixcloud.co/playlist/784018?token=5437ed6f7d01643ce2694fc03b88b38b&expires=1795030601&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1204680" tvg-name="Coyote vs. Acme" tvg-logo="https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg" group-title="Film", Coyote vs. Acme
+https://vixcloud.co/playlist/785563?b=1&token=8218d9db530592a37cdf632253ae2478&expires=1795030602&h=1&scz=1&lang=it
