@@ -1,67 +1,173 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="Film", The Avengers
-https://vixcloud.co/playlist/204303?b=1&token=9925fe1805691b57b1809af15aa3604f&expires=1795079316&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="1560520" tvg-name="Batman: Knightfall Part 1: Knightfall" tvg-logo="https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="Film", Batman: Knightfall Part 1: Knightfall
-https://vixcloud.co/playlist/784018?token=5c2f23a0becf19dd7511b4a87c5fbf73&expires=1795079316&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="1204680" tvg-name="Coyote vs. Acme" tvg-logo="https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg" group-title="Film", Coyote vs. Acme
-https://vixcloud.co/playlist/785563?b=1&token=8a9358ce1aa730636d61039309ecf670&expires=1795079317&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E01" tvg-name="Teach You a Lesson - S01E01 - Episode 1" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E01 - Episode 1
-https://vixcloud.co/playlist/739989?token=07c558afc9eecbf1be89ed3425f98948&expires=1795079318&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E02" tvg-name="Teach You a Lesson - S01E02 - Episode 2" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E02 - Episode 2
-https://vixcloud.co/playlist/739990?token=13898b80710f0b46d8cfa5c480adbc6c&expires=1795079318&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E03" tvg-name="Teach You a Lesson - S01E03 - Episode 3" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E03 - Episode 3
-https://vixcloud.co/playlist/739991?token=66cf157734e0cb2d8baf632c1deb8c90&expires=1795079319&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E04" tvg-name="Teach You a Lesson - S01E04 - Episode 4" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E04 - Episode 4
-https://vixcloud.co/playlist/739992?token=75933fd13f221524141f3da000a5594c&expires=1795079319&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E05" tvg-name="Teach You a Lesson - S01E05 - Episode 5" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E05 - Episode 5
-https://vixcloud.co/playlist/739993?token=1d35920afec96071e59e98e21130f809&expires=1795079320&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E06" tvg-name="Teach You a Lesson - S01E06 - Episode 6" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E06 - Episode 6
-https://vixcloud.co/playlist/739994?token=0a5aca1a37fcf79b5d670e7d6cf993aa&expires=1795079320&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E07" tvg-name="Teach You a Lesson - S01E07 - Episode 7" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E07 - Episode 7
-https://vixcloud.co/playlist/739995?token=51e720beeaf1a5ec77f39afb16aadf5b&expires=1795079321&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E08" tvg-name="Teach You a Lesson - S01E08 - Episode 8" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E08 - Episode 8
-https://vixcloud.co/playlist/739996?token=95ca72ae00a2e01699e5012dddd9f232&expires=1795079321&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E09" tvg-name="Teach You a Lesson - S01E09 - Episode 9" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E09 - Episode 9
-https://vixcloud.co/playlist/739997?token=50c076a93e6772084175ef8c613eec79&expires=1795079321&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="276161_S01E10" tvg-name="Teach You a Lesson - S01E10 - Episode 10" tvg-logo="https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg" group-title="Teach You a Lesson", Teach You a Lesson - S01E10 - Episode 10
-https://vixcloud.co/playlist/739998?token=d76ab41078f1afdb3c1bf717517b4313&expires=1795079322&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E01" tvg-name="Neagley - S01E01 - L Train" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E01 - L Train
-https://vixcloud.co/playlist/787580?b=1&token=e9a4ee2936cf6e9bbbbda61bc32eb984&expires=1795079323&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E02" tvg-name="Neagley - S01E02 - Team Building Exercises" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E02 - Team Building Exercises
-https://vixcloud.co/playlist/787581?b=1&token=0a40493fda4898f2ace07c870b065a41&expires=1795079323&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E03" tvg-name="Neagley - S01E03 - Hammer Time" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E03 - Hammer Time
-https://vixcloud.co/playlist/787582?b=1&token=980706aa1575eb68aac39baf183b9144&expires=1795079323&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E04" tvg-name="Neagley - S01E04 - Breaking & Entering" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E04 - Breaking & Entering
-https://vixcloud.co/playlist/787583?b=1&token=6ce4987f4dc3193dedf602bcca8f4a87&expires=1795079324&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E05" tvg-name="Neagley - S01E05 - Trip" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E05 - Trip
-https://vixcloud.co/playlist/787584?token=350e512acfea3e30df7dafa72d2e9268&expires=1795079324&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E06" tvg-name="Neagley - S01E06 - Rocked" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E06 - Rocked
-https://vixcloud.co/playlist/787585?b=1&token=2348ccaf32e368da43bb3b509afd9a3c&expires=1795079325&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E07" tvg-name="Neagley - S01E07 - Lebron's No Jordan" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E07 - Lebron's No Jordan
-https://vixcloud.co/playlist/788222?b=1&token=6bbb938a4886b1a6281582c61d655cf7&expires=1795079325&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273207_S01E08" tvg-name="Neagley - S01E08 - Touched" tvg-logo="https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg" group-title="Neagley", Neagley - S01E08 - Touched
-https://vixcloud.co/playlist/787587?b=1&token=a00f0eb0ffafd79b33aae48d3862fd23&expires=1795079326&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="969681" tvg-name="Spider-Man: Brand New Day" tvg-logo="https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg" group-title="Film", Spider-Man: Brand New Day
-https://vixcloud.co/playlist/777603?b=1&token=6ed4b7220b8fcfcc516a0a1bac964d94&expires=1795079326&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="1084244" tvg-name="Toy Story 5" tvg-logo="https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" group-title="Film", Toy Story 5
-https://vixcloud.co/playlist/780244?b=1&token=b8f30a68ed02e9d25d7b8d7bcf16612c&expires=1795079326&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="1339713" tvg-name="Obsession" tvg-logo="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="Film", Obsession
-https://vixcloud.co/playlist/767555?b=1&token=53091bb9d76b52ca52446ac22128eac3&expires=1795079327&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="1288445" tvg-name="Mutiny" tvg-logo="https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg" group-title="Film", Mutiny
-https://vixcloud.co/playlist/787159?b=1&token=02c7e7e1908884df01e1a3c398307cef&expires=1795079327&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E01" tvg-name="Off Campus - S01E01 - The Deal" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E01 - The Deal
-https://vixcloud.co/playlist/709762?token=4fac85713c18894fc763281670be1384&expires=1795079328&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E02" tvg-name="Off Campus - S01E02 - The Practice" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E02 - The Practice
-https://vixcloud.co/playlist/709763?token=b9e685be30ac7544232233d9e23fef52&expires=1795079328&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E03" tvg-name="Off Campus - S01E03 - The Orgasm" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E03 - The Orgasm
-https://vixcloud.co/playlist/709764?token=be8ecfceb63d6d9bb1acc7e721b11545&expires=1795079329&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E04" tvg-name="Off Campus - S01E04 - The Breakup" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E04 - The Breakup
-https://vixcloud.co/playlist/709765?token=3ba2a7518359bdd2b09efa2307c5eea0&expires=1795079329&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E05" tvg-name="Off Campus - S01E05 - The Cold Turkey" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E05 - The Cold Turkey
-https://vixcloud.co/playlist/709766?token=bbd00cdfc61c2c05ad8535cd9535bc85&expires=1795079330&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E06" tvg-name="Off Campus - S01E06 - The Breakaway" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E06 - The Breakaway
-https://vixcloud.co/playlist/709767?token=177612967dd6ee15cecf881e133c1543&expires=1795079332&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E07" tvg-name="Off Campus - S01E07 - The Faceoff" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E07 - The Faceoff
-https://vixcloud.co/playlist/709768?token=e2f74e4718495895a8ce238c7760d7e0&expires=1795079333&h=1&scz=1&lang=it
-#EXTINF:-1 tvg-id="273240_S01E08" tvg-name="Off Campus - S01E08 - The Line Change" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="Off Campus", Off Campus - S01E08 - The Line Change
-https://vixcloud.co/playlist/709769?token=e5e3d51008d4ee0fe4248d4593f856ae&expires=1795079333&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E01" tvg-name="Lezioni vere - S01E01 - Episodio 1" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E01 - Episodio 1
+https://vixcloud.co/playlist/739989?token=08f26f0cec8d117ccbef324912fb691f&expires=1795083714&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E02" tvg-name="Lezioni vere - S01E02 - Episodio 2" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E02 - Episodio 2
+https://vixcloud.co/playlist/739990?token=823570fdfeff1d39db7fb8e2eaeab335&expires=1795083716&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E03" tvg-name="Lezioni vere - S01E03 - Episodio 3" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E03 - Episodio 3
+https://vixcloud.co/playlist/739991?token=5cc7efbbb720ef24ffb4da1ec99fd92d&expires=1795083718&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E04" tvg-name="Lezioni vere - S01E04 - Episodio 4" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E04 - Episodio 4
+https://vixcloud.co/playlist/739992?token=63b7838ed913a83f9c7ebdb6b7a5f6a0&expires=1795083720&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E05" tvg-name="Lezioni vere - S01E05 - Episodio 5" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E05 - Episodio 5
+https://vixcloud.co/playlist/739993?token=bbc08a77899424707215c71bf254de05&expires=1795083722&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E06" tvg-name="Lezioni vere - S01E06 - Episodio 6" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E06 - Episodio 6
+https://vixcloud.co/playlist/739994?token=77ccbbfc4ebc27ba9d6d220aa8d18a27&expires=1795083724&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E07" tvg-name="Lezioni vere - S01E07 - Episodio 7" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E07 - Episodio 7
+https://vixcloud.co/playlist/739995?token=5056247109adf2606e27769b6ab2ae0f&expires=1795083726&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E08" tvg-name="Lezioni vere - S01E08 - Episodio 8" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E08 - Episodio 8
+https://vixcloud.co/playlist/739996?token=3149a082a19830e457ea12c7646a0ad5&expires=1795083728&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E09" tvg-name="Lezioni vere - S01E09 - Episodio 9" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E09 - Episodio 9
+https://vixcloud.co/playlist/739997?token=22b5368e2e9301aae877c415c32bb916&expires=1795083730&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="276161_S01E10" tvg-name="Lezioni vere - S01E10 - Episodio 10" tvg-logo="https://image.tmdb.org/t/p/w500/bUsdsCTUUrqd1l9MZFgiJRypQG1.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Lezioni vere)", Lezioni vere - S01E10 - Episodio 10
+https://vixcloud.co/playlist/739998?token=65f0f43f2e7b1527d812801eb9714f8c&expires=1795083732&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E01" tvg-name="Neagley - S01E01 - Metro L" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E01 - Metro L
+https://vixcloud.co/playlist/787580?b=1&token=2f066a1a95b4677fb330bc2b444b83ad&expires=1795083735&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E02" tvg-name="Neagley - S01E02 - Esercizi di Team Building" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E02 - Esercizi di Team Building
+https://vixcloud.co/playlist/787581?b=1&token=e94925781a8538a9b40cf58f7e7a164c&expires=1795083737&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E03" tvg-name="Neagley - S01E03 - Ora di agire" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E03 - Ora di agire
+https://vixcloud.co/playlist/787582?b=1&token=8c8ca0b3c2231db1241b1a8d1964dd2a&expires=1795083739&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E04" tvg-name="Neagley - S01E04 - Effrazione" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E04 - Effrazione
+https://vixcloud.co/playlist/787583?b=1&token=c4a9a392ea59990bf99cd5ccd595d442&expires=1795083740&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E05" tvg-name="Neagley - S01E05 - Gita" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E05 - Gita
+https://vixcloud.co/playlist/787584?b=1&token=4be493e786e5932c6af8bb5f2bf79cf1&expires=1795083742&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E06" tvg-name="Neagley - S01E06 - Shock" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E06 - Shock
+https://vixcloud.co/playlist/787585?b=1&token=ccb46ec1a4a18501945b9632669da607&expires=1795083744&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E07" tvg-name="Neagley - S01E07 - Lebron non è Jordan" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E07 - Lebron non è Jordan
+https://vixcloud.co/playlist/788222?b=1&token=2b7f63b0a9012f8dd6eb664deb52ddaa&expires=1795083746&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E08" tvg-name="Neagley - S01E08 - Emozione" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E08 - Emozione
+https://vixcloud.co/playlist/787587?b=1&token=aa4736a1ae19f833e6c5d840a1ec9784&expires=1795083748&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="969681" tvg-name="Spider-Man: Brand New Day" tvg-logo="https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg" group-title="🎯 Le Mie Scelte - Film", Spider-Man: Brand New Day
+https://vixcloud.co/playlist/777603?b=1&token=3ce6b90c4f867cfd00343e6df524c542&expires=1795083750&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1084244" tvg-name="Toy Story 5" tvg-logo="https://image.tmdb.org/t/p/w500/pbSlkjpduOmjPOI3XowK9fqomEM.jpg" group-title="🎯 Le Mie Scelte - Film", Toy Story 5
+https://vixcloud.co/playlist/780244?b=1&token=4cf7c309f4ff109d746196ecb0b97a1b&expires=1795083752&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1339713" tvg-name="Obsession" tvg-logo="https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg" group-title="🎯 Le Mie Scelte - Film", Obsession
+https://vixcloud.co/playlist/767555?b=1&token=e3eebc4fe257c44f7e27efcdfb6daa2c&expires=1795083754&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1288445" tvg-name="Mutiny - Inverti la rotta" tvg-logo="https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg" group-title="🎯 Le Mie Scelte - Film", Mutiny - Inverti la rotta
+https://vixcloud.co/playlist/787159?b=1&token=ea687e2aed76b1aff48f10c682b89b8d&expires=1795083756&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E01" tvg-name="Off Campus - S01E01 - Il contratto" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E01 - Il contratto
+https://vixcloud.co/playlist/709762?b=1&token=f02e65480af1b8c5e5e42e7d75c222cf&expires=1795083758&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E02" tvg-name="Off Campus - S01E02 - L'allenamento" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E02 - L'allenamento
+https://vixcloud.co/playlist/709763?b=1&token=86be51d138e6ee73af12e86dac857366&expires=1795083760&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E03" tvg-name="Off Campus - S01E03 - L'orgasmo" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E03 - L'orgasmo
+https://vixcloud.co/playlist/709764?token=3aeb5fce7d4ff13aff809eb8a6fd3812&expires=1795083762&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E04" tvg-name="Off Campus - S01E04 - La rottura" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E04 - La rottura
+https://vixcloud.co/playlist/709765?b=1&token=52808a946b2f61cb05a581dcff4c96c2&expires=1795083764&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E05" tvg-name="Off Campus - S01E05 - Il tacchino freddo" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E05 - Il tacchino freddo
+https://vixcloud.co/playlist/709766?token=3b12d34c1bf01f2289c87d842012e749&expires=1795083766&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E06" tvg-name="Off Campus - S01E06 - Lo scontro" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E06 - Lo scontro
+https://vixcloud.co/playlist/709767?b=1&token=9a97c58b70d29db715c36b0b4ec0c720&expires=1795083768&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E07" tvg-name="Off Campus - S01E07 - Il faccia a faccia" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E07 - Il faccia a faccia
+https://vixcloud.co/playlist/709768?token=7a7ee8aed95c71322bc76bf59e370478&expires=1795083770&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273240_S01E08" tvg-name="Off Campus - S01E08 - Il cambio di formazione" tvg-logo="https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Off Campus)", Off Campus - S01E08 - Il cambio di formazione
+https://vixcloud.co/playlist/709769?b=1&token=f1abbb941a1cbf0c73316fd7e6ae84be&expires=1795083772&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1101383" tvg-name="La fine di Oak Street" tvg-logo="https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg" group-title="🔥 Top Trend - Film", La fine di Oak Street
+https://vixcloud.co/playlist/787279?b=1&token=e10600629a29ce2803c93f011c462a85&expires=1795083774&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1423191" tvg-name="Resident Evil" tvg-logo="https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg" group-title="🔥 Top Trend - Film", Resident Evil
+https://vixcloud.co/playlist/788362?token=a50db6f526f3bee96296bbe906271b3a&expires=1795083776&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="969681" tvg-name="Spider-Man: Brand New Day" tvg-logo="https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg" group-title="🎯 Le Mie Scelte - Film", Spider-Man: Brand New Day
+https://vixcloud.co/playlist/777603?b=1&token=3ce6b90c4f867cfd00343e6df524c542&expires=1795083750&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1240889" tvg-name="Camp Miasma - Adolescenza, sesso e morte" tvg-logo="https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg" group-title="🔥 Top Trend - Film", Camp Miasma - Adolescenza, sesso e morte
+https://vixcloud.co/playlist/778942?token=d01f8ed90799767b185eba5e559141e4&expires=1795083778&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1339713" tvg-name="Obsession" tvg-logo="https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg" group-title="🎯 Le Mie Scelte - Film", Obsession
+https://vixcloud.co/playlist/767555?b=1&token=e3eebc4fe257c44f7e27efcdfb6daa2c&expires=1795083754&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1368337" tvg-name="Odissea" tvg-logo="https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg" group-title="🔥 Top Trend - Film", Odissea
+https://vixcloud.co/playlist/777012?token=5bc212849066df13f5021733874cfa96&expires=1795083780&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1108427" tvg-name="Oceania" tvg-logo="https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg" group-title="🔥 Top Trend - Film", Oceania
+https://vixcloud.co/playlist/786682?b=1&token=da1d12a18774b80034c30d3e1044fc4c&expires=1795083782&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="1641629" tvg-name="Io+Te - Soli contro tutti" tvg-logo="https://image.tmdb.org/t/p/w500/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg" group-title="🔥 Top Trend - Film", Io+Te - Soli contro tutti
+https://vixcloud.co/playlist/788161?b=1&token=e0f883ed49b5eb36cda4a3e6429ca0af&expires=1795083785&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E01" tvg-name="Monster: La storia di Lizzie Borden - S01E01 - Bagno di sangue" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E01 - Bagno di sangue
+https://vixcloud.co/playlist/787821?b=1&token=e526dde0d56f8bca5e1b3577baaebb94&expires=1795083788&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E02" tvg-name="Monster: La storia di Lizzie Borden - S01E02 - Micia forte" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E02 - Micia forte
+https://vixcloud.co/playlist/787822?b=1&token=a344adc18329cb61f51154fbdd59a7f8&expires=1795083790&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E03" tvg-name="Monster: La storia di Lizzie Borden - S01E03 - Colpo... di follia!" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E03 - Colpo... di follia!
+https://vixcloud.co/playlist/787823?b=1&token=d59fe21adbcfcdf355b83e5ddb642204&expires=1795083792&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E04" tvg-name="Monster: La storia di Lizzie Borden - S01E04 - R.I.P. (riposa in pena) Abby Borden" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E04 - R.I.P. (riposa in pena) Abby Borden
+https://vixcloud.co/playlist/787824?b=1&token=01480c913e06175d7a52001058ad667c&expires=1795083794&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E05" tvg-name="Monster: La storia di Lizzie Borden - S01E05 - 41" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E05 - 41
+https://vixcloud.co/playlist/787825?b=1&token=122200e45e34ab5c904263b66ed12123&expires=1795083796&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E06" tvg-name="Monster: La storia di Lizzie Borden - S01E06 - Bed and breakfast" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E06 - Bed and breakfast
+https://vixcloud.co/playlist/787826?b=1&token=f2d5edb9f1a81fdf9d8ee60fdf0401e8&expires=1795083798&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E07" tvg-name="Monster: La storia di Lizzie Borden - S01E07 - Il processo del secolo" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E07 - Il processo del secolo
+https://vixcloud.co/playlist/787827?b=1&token=3599e3be7d1596cdbe3cf4764ab5ee32&expires=1795083799&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="299939_S01E08" tvg-name="Monster: La storia di Lizzie Borden - S01E08 - Carnevale" tvg-logo="https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg" group-title="🔥 Top Trend - Serie TV (Monster: La storia di Lizzie Borden)", Monster: La storia di Lizzie Borden - S01E08 - Carnevale
+https://vixcloud.co/playlist/787828?b=1&token=c9ef5cd099ac8efbb30d7473ad5f1423&expires=1795083801&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E01" tvg-name="Neagley - S01E01 - Metro L" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E01 - Metro L
+https://vixcloud.co/playlist/787580?b=1&token=2f066a1a95b4677fb330bc2b444b83ad&expires=1795083735&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E02" tvg-name="Neagley - S01E02 - Esercizi di Team Building" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E02 - Esercizi di Team Building
+https://vixcloud.co/playlist/787581?b=1&token=e94925781a8538a9b40cf58f7e7a164c&expires=1795083737&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E03" tvg-name="Neagley - S01E03 - Ora di agire" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E03 - Ora di agire
+https://vixcloud.co/playlist/787582?b=1&token=8c8ca0b3c2231db1241b1a8d1964dd2a&expires=1795083739&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E04" tvg-name="Neagley - S01E04 - Effrazione" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E04 - Effrazione
+https://vixcloud.co/playlist/787583?b=1&token=c4a9a392ea59990bf99cd5ccd595d442&expires=1795083740&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E05" tvg-name="Neagley - S01E05 - Gita" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E05 - Gita
+https://vixcloud.co/playlist/787584?b=1&token=4be493e786e5932c6af8bb5f2bf79cf1&expires=1795083742&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E06" tvg-name="Neagley - S01E06 - Shock" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E06 - Shock
+https://vixcloud.co/playlist/787585?b=1&token=ccb46ec1a4a18501945b9632669da607&expires=1795083744&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E07" tvg-name="Neagley - S01E07 - Lebron non è Jordan" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E07 - Lebron non è Jordan
+https://vixcloud.co/playlist/788222?b=1&token=2b7f63b0a9012f8dd6eb664deb52ddaa&expires=1795083746&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="273207_S01E08" tvg-name="Neagley - S01E08 - Emozione" tvg-logo="https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg" group-title="🎯 Le Mie Scelte - Serie TV (Neagley)", Neagley - S01E08 - Emozione
+https://vixcloud.co/playlist/787587?b=1&token=aa4736a1ae19f833e6c5d840a1ec9784&expires=1795083748&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E01" tvg-name="Reacher - S01E01 - Benvenuti a Margrave" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E01 - Benvenuti a Margrave
+https://vixcloud.co/playlist/174559?token=e6f0780762c50a24d121a179dc3ed8be&expires=1795083804&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E02" tvg-name="Reacher - S01E02 - Primo Ballo" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E02 - Primo Ballo
+https://vixcloud.co/playlist/174560?token=07095d86e69ba4bcb5e5d0bef59ea385&expires=1795083806&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E03" tvg-name="Reacher - S01E03 - Cucchiaio" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E03 - Cucchiaio
+https://vixcloud.co/playlist/174561?token=4869a96377a6b9fb7eacf7c73c10ebd3&expires=1795083808&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E04" tvg-name="Reacher - S01E04 - Su un Albero" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E04 - Su un Albero
+https://vixcloud.co/playlist/174562?token=782c669acba1e8a272b9c5db3d6cdcf0&expires=1795083810&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E05" tvg-name="Reacher - S01E05 - Niente Scuse" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E05 - Niente Scuse
+https://vixcloud.co/playlist/174563?token=9d494838417e088d748c68230671dcd8&expires=1795083812&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E06" tvg-name="Reacher - S01E06 - Carta" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E06 - Carta
+https://vixcloud.co/playlist/174564?token=4287f5af6664cf82137bb5500a27f942&expires=1795083814&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E07" tvg-name="Reacher - S01E07 - Reacher non ha detto Niente" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E07 - Reacher non ha detto Niente
+https://vixcloud.co/playlist/174565?token=af1e713a0cac6d569446b79dcdc4b74f&expires=1795083816&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S01E08" tvg-name="Reacher - S01E08 - Torta" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S01E08 - Torta
+https://vixcloud.co/playlist/174566?token=2f4c663950dc36abd427df9c6573c031&expires=1795083818&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E01" tvg-name="Reacher - S02E01 - Sportello automatico" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E01 - Sportello automatico
+https://vixcloud.co/playlist/173770?token=83c37a0f0aae4718e51cc8cedb73642d&expires=1795083821&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E02" tvg-name="Reacher - S02E02 - Quello che succede ad Atlantic City" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E02 - Quello che succede ad Atlantic City
+https://vixcloud.co/playlist/173771?token=5081ca30fc0b0037a992145d101db9d3&expires=1795083823&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E03" tvg-name="Reacher - S02E03 - Un'immagine dice più di mille parole" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E03 - Un'immagine dice più di mille parole
+https://vixcloud.co/playlist/173772?token=aa7bffbeb2cc725d7c5def143f40abeb&expires=1795083825&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E04" tvg-name="Reacher - S02E04 - Una serata alla Symphony Hall" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E04 - Una serata alla Symphony Hall
+https://vixcloud.co/playlist/175447?token=4e1c889c892fd64c8caea8250c3b3d3d&expires=1795083827&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E05" tvg-name="Reacher - S02E05 - Sepoltura" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E05 - Sepoltura
+https://vixcloud.co/playlist/178461?token=a5556d9e35dcc6bdc047fd581fd33e5c&expires=1795083829&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E06" tvg-name="Reacher - S02E06 - Le forze dell'ordine di New York" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E06 - Le forze dell'ordine di New York
+https://vixcloud.co/playlist/182583?token=7a114ae23bb40ba543d63eafc2dd30f5&expires=1795083831&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E07" tvg-name="Reacher - S02E07 - L'uomo che entra" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E07 - L'uomo che entra
+https://vixcloud.co/playlist/184278?token=f065a655b0b4354524e8a42a6bb6d93a&expires=1795083833&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S02E08" tvg-name="Reacher - S02E08 - Soldatino" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S02E08 - Soldatino
+https://vixcloud.co/playlist/187521?token=6ff7caa11991af1e29ca3976a40c3abd&expires=1795083835&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E01" tvg-name="Reacher - S03E01 - La vittima designata" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E01 - La vittima designata
+https://vixcloud.co/playlist/289408?token=9c9e16485db9dae875ab87c7fe7267fc&expires=1795083837&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E02" tvg-name="Reacher - S03E02 - Trasporto" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E02 - Trasporto
+https://vixcloud.co/playlist/289409?token=479d23c16a7058c82ddd0cfe46775954&expires=1795083839&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E03" tvg-name="Reacher - S03E03 - Numero 2 con proiettile" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E03 - Numero 2 con proiettile
+https://vixcloud.co/playlist/289410?token=54063a9086d5af6a82dd0fa6adadbf3b&expires=1795083841&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E04" tvg-name="Reacher - S03E04 - Dominique" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E04 - Dominique
+https://vixcloud.co/playlist/290227?token=8f5c5cbbb3b448a25bd22fa122629915&expires=1795083843&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E05" tvg-name="Reacher - S03E05 - Batosta" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E05 - Batosta
+https://vixcloud.co/playlist/291756?token=6e6c6557ea8b538a65d8030a0457f08e&expires=1795083845&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E06" tvg-name="Reacher - S03E06 - Smoke on the Water" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E06 - Smoke on the Water
+https://vixcloud.co/playlist/292868?token=5831197a1b7c253db68fcc1ad97a02d5&expires=1795083847&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E07" tvg-name="Reacher - S03E07 - Si va a Los Angeles" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E07 - Si va a Los Angeles
+https://vixcloud.co/playlist/296551?token=c4931e50571b126748aa7eae0d5b3d4d&expires=1795083849&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S03E08" tvg-name="Reacher - S03E08 - Affari in sospeso" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S03E08 - Affari in sospeso
+https://vixcloud.co/playlist/302081?token=4da6c954def39f01564f3d651cce5e3d&expires=1795083851&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E01" tvg-name="Reacher - S04E01 - La città dell'amore fraterno" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E01 - La città dell'amore fraterno
+https://vixcloud.co/playlist/778964?b=1&token=22dded92f5bce7700daa676224d4061e&expires=1795083854&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E02" tvg-name="Reacher - S04E02 - Lotta in gabbia" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E02 - Lotta in gabbia
+https://vixcloud.co/playlist/778965?b=1&token=03d284ed9553d98a884b623fbbc22668&expires=1795083855&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E03" tvg-name="Reacher - S04E03 - Un piccolo passo" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E03 - Un piccolo passo
+https://vixcloud.co/playlist/778966?token=af9a2b3fd75fe33ed39bcd8df199e0e3&expires=1795083857&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E04" tvg-name="Reacher - S04E04 - Karambit mortale" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E04 - Karambit mortale
+https://vixcloud.co/playlist/780317?token=be318714c8c2b001314483b1353d46b1&expires=1795083859&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E05" tvg-name="Reacher - S04E05 - Il ponte" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E05 - Il ponte
+https://vixcloud.co/playlist/782523?token=1a8d5d5ef60fcb8931b8aa222ea1aebb&expires=1795083861&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E06" tvg-name="Reacher - S04E06 - Lo sfortunato Plum" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E06 - Lo sfortunato Plum
+https://vixcloud.co/playlist/784313?b=1&token=cca989a0947d731b2e8a8bf4c99ea7e2&expires=1795083863&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E07" tvg-name="Reacher - S04E07 - Tutti con Sampson" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E07 - Tutti con Sampson
+https://vixcloud.co/playlist/786158?b=1&token=1ff8c507b4408302e465ce8d4a045d78&expires=1795083865&h=1&scz=1&lang=it
+#EXTINF:-1 tvg-id="108978_S04E08" tvg-name="Reacher - S04E08 - Il taglio" tvg-logo="https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg" group-title="🔥 Top Trend - Serie TV (Reacher)", Reacher - S04E08 - Il taglio
+https://vixcloud.co/playlist/787559?b=1&token=ff875f2c6e42545c0aa9600c4ebd07f6&expires=1795083867&h=1&scz=1&lang=it
