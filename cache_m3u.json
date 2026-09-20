@@ -1,5 +1,5 @@
 {
-    "last_trend_time": 1789902628.6267493,
+    "last_trend_time": 1789918780.897676,
     "trends": [
         {
             "adult": false,
@@ -20,8 +20,8 @@
             "release_date": "2026-09-16",
             "softcore": false,
             "video": false,
-            "vote_average": 7.365,
-            "vote_count": 171,
+            "vote_average": 7.304,
+            "vote_count": 179,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -43,8 +43,8 @@
             "release_date": "2026-08-12",
             "softcore": false,
             "video": false,
-            "vote_average": 6.98,
-            "vote_count": 1246,
+            "vote_average": 7.0,
+            "vote_count": 1257,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -66,29 +66,8 @@
             "release_date": "2026-08-06",
             "softcore": false,
             "video": false,
-            "vote_average": 6.463,
-            "vote_count": 134,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-            "id": 1514863,
-            "title": "Best of the Best",
-            "original_title": "Best of the Best",
-            "overview": "Una commedia rauca ambientata nel mondo spietato delle competizioni collegiali di danza di Bollywood.",
-            "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                35
-            ],
-            "popularity": 48.3659,
-            "release_date": "2026-09-18",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.3,
-            "vote_count": 7,
+            "vote_average": 6.485,
+            "vote_count": 137,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -110,8 +89,29 @@
             "release_date": "2026-07-29",
             "softcore": false,
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 2782,
+            "vote_average": 7.857,
+            "vote_count": 2783,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+            "id": 1514863,
+            "title": "Best of the Best",
+            "original_title": "Best of the Best",
+            "overview": "Una commedia rauca ambientata nel mondo spietato delle competizioni collegiali di danza di Bollywood.",
+            "poster_path": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35
+            ],
+            "popularity": 48.3659,
+            "release_date": "2026-09-18",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.833,
+            "vote_count": 9,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -132,7 +132,7 @@
             "release_date": "2026-08-14",
             "softcore": false,
             "video": false,
-            "vote_average": 7.2,
+            "vote_average": 7.212,
             "vote_count": 26,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
@@ -155,8 +155,8 @@
             "release_date": "2026-08-21",
             "softcore": false,
             "video": false,
-            "vote_average": 8.767,
-            "vote_count": 750,
+            "vote_average": 8.766,
+            "vote_count": 751,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -179,7 +179,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 6.801,
-            "vote_count": 1940,
+            "vote_count": 1943,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -201,8 +201,8 @@
             "release_date": "2026-08-27",
             "softcore": false,
             "video": false,
-            "vote_average": 6.834,
-            "vote_count": 733,
+            "vote_average": 6.836,
+            "vote_count": 736,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -225,7 +225,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.488,
-            "vote_count": 41197,
+            "vote_count": 41198,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
