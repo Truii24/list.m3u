@@ -755,6 +755,15 @@
                 "url": "https://vixcloud.co/playlist/709769?token=0529dd733fca95ea06b10e1270427ec4&expires=1795086715&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
             }
+        ],
+        "1314481": [
+            {
+                "ep_id": "1314481",
+                "ep_title": "Il diavolo veste Prada 2 (2026) - \u2b50 7.0",
+                "url": "https://vixcloud.co/playlist/775784?b=1&token=5943e72fcf9b3c1b1894f61efc08f1a2&expires=1795103574&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/6rvfeLdpAz5KsvHi7RtFSQCdk2q.jpg",
+                "plot": "Andy Sachs torna a Runway mentre Miranda Priestly naviga in un nuovo panorama mediatico mantenendo la sua posizione in Runway. Entrambe riallacciano i contatti con l'ex assistente Emily Charlton, ora a capo di un marchio di lusso con finanziamenti che potrebbero garantire la sopravvivenza di Runway."
+            }
         ]
     }
 }
