@@ -1,8 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Canale Esempio" tvg-logo="" group-title="Miei Canali",Esempio con Headers Personalizzati
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="Dazn 1"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://prohostmedia.top
 #EXTVLCOPT:http-origin=https://prohostmedia.top
 #EXTVLCOPT:http-host=p7.streamhostingcdn.top
-https://p7.streamhostingcdn.top/stream/24/index.m3u8?token=o_mnFDukW1rajOBK2cJPcw&ark_r=p7
+https://p7.streamhostingcdn.top/stream/24/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky sport 1" tvg-logo="" group-title="Sky"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prohostmedia.top
+#EXTVLCOPT:http-origin=https://prohostmedia.top
+#EXTVLCOPT:http-host=p7.streamhostingcdn.top
+https://p7.streamhostingcdn.top/stream/8/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport Arena" tvg-logo="" group-title="sky"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prohostmedia.top
+#EXTVLCOPT:http-origin=https://prohostmedia.top
+#EXTVLCOPT:http-host=p7.streamhostingcdn.top
+https://p7.streamhostingcdn.top/stream/7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max" tvg-logo="" group-title="Sky"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prohostmedia.top
+#EXTVLCOPT:http-origin=https://prohostmedia.top
+#EXTVLCOPT:http-host=p7.streamhostingcdn.top
+https://p7.streamhostingcdn.top/stream/9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno" tvg-logo="" group-title="Sky"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prohostmedia.top
+#EXTVLCOPT:http-origin=https://prohostmedia.top
+#EXTVLCOPT:http-host=p7.streamhostingcdn.top
+https://p7.streamhostingcdn.top/stream/17/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio" tvg-logo="" group-title="Sky"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://prohostmedia.top
+#EXTVLCOPT:http-origin=https://prohostmedia.top
+#EXTVLCOPT:http-host=p7.streamhostingcdn.top
+https://p7.streamhostingcdn.top/stream/21/index.m3u8
