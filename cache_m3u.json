@@ -1,31 +1,31 @@
 {
-    "last_trend_time": 1790093378.1314657,
+    "last_trend_time": 1790295684.214859,
     "trends": [
         {
             "adult": false,
-            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-            "id": 1607127,
-            "title": "One Last Shot",
-            "original_title": "One Last Shot",
-            "overview": "",
-            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+            "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+            "id": 1032863,
+            "title": "The Love Hypothesis: Il teorema dell'amore",
+            "original_title": "The Love Hypothesis",
+            "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
+            "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
-                28,
-                53
+                10749,
+                35
             ],
-            "popularity": 2.8194,
-            "release_date": "2026-09-22",
+            "popularity": 218.1516,
+            "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.8,
-            "vote_count": 5,
+            "vote_average": 8.086,
+            "vote_count": 111,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+            "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
             "id": 1423191,
             "title": "Resident Evil",
             "original_title": "Resident Evil",
@@ -38,104 +38,81 @@
                 878,
                 12
             ],
-            "popularity": 607.7799,
+            "popularity": 560.076,
             "release_date": "2026-09-16",
             "softcore": false,
             "video": false,
-            "vote_average": 7.341,
-            "vote_count": 292,
+            "vote_average": 7.3,
+            "vote_count": 427,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
-            "id": 1477712,
-            "title": "Ice Cream Man",
-            "original_title": "Ice Cream Man",
-            "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell\u2019orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
-            "poster_path": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+            "id": 1607127,
+            "title": "One Last Shot",
+            "original_title": "One Last Shot",
+            "overview": "Un Navy SEAL rinnegato e deluso dalla condotta del suo esercito, guida una squadra di mercenari nel tentativo di disattivare la rete di difesa statunitense. L'unico in grado di fermarlo \u00e8 il suo ex commilitone Jake Harris.",
+            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
-                27,
-                35,
+                28,
                 53
             ],
-            "popularity": 21.8014,
-            "release_date": "2026-08-03",
+            "popularity": 142.2671,
+            "release_date": "2026-09-22",
             "softcore": false,
             "video": false,
-            "vote_average": 4.675,
-            "vote_count": 63,
+            "vote_average": 7.7,
+            "vote_count": 38,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
-            "id": 445466,
-            "title": "Idiots",
-            "original_title": "Idiots",
-            "overview": "",
-            "poster_path": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+            "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+            "id": 1084244,
+            "title": "Toy Story 5",
+            "original_title": "Toy Story 5",
+            "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+            "poster_path": "/pbSlkjpduOmjPOI3XowK9fqomEM.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
+                16,
+                10751,
                 35,
-                80
+                12
             ],
-            "popularity": 9.1919,
-            "release_date": "2026-08-20",
+            "popularity": 161.1158,
+            "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 6.9,
-            "vote_count": 9,
+            "vote_average": 8.3,
+            "vote_count": 2279,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-            "id": 675871,
-            "title": "Super Troopers 3",
-            "original_title": "Super Troopers 3",
-            "overview": "",
-            "poster_path": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+            "backdrop_path": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+            "id": 1375441,
+            "title": "Primetime",
+            "original_title": "Primetime",
+            "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un\u2019icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre pi\u00f9 ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre pi\u00f9 insostenibile.",
+            "poster_path": "/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
             "media_type": "movie",
             "original_language": "en",
-            "genre_ids": [
-                35,
-                80,
-                9648
-            ],
-            "popularity": 13.8393,
-            "release_date": "2026-08-06",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 19,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
             "genre_ids": [
                 18,
-                10749,
-                35
+                53
             ],
-            "id": 1408162,
-            "title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
-            "original_language": "ta",
-            "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
-            "overview": "",
-            "popularity": 106.3914,
-            "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-            "release_date": "2026-08-14",
+            "popularity": 31.3743,
+            "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 28,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+            "vote_average": 6.6,
+            "vote_count": 12,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
@@ -150,36 +127,36 @@
             "original_language": "es",
             "original_title": "La captura",
             "overview": "Messico, 2016. Due poliziotti incrociano l'obiettivo di un'operazione militare finita male. Si tratta di uno dei killer pi\u00f9 pericolosi al mondo al soldo di un cartello criminale.",
-            "popularity": 98.9099,
+            "popularity": 87.2648,
             "poster_path": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
             "release_date": "2026-08-21",
             "softcore": false,
             "video": false,
-            "vote_average": 8.796,
-            "vote_count": 782,
+            "vote_average": 8.794,
+            "vote_count": 794,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/4kbkq887XNT85d6nJonCnmXDWor.jpg",
+            "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
             "genre_ids": [
+                18,
                 10749,
-                14,
                 35
             ],
-            "id": 6435,
-            "title": "Amori & incantesimi",
-            "original_language": "en",
-            "original_title": "Practical Magic",
-            "overview": "Le donne della famiglia Owens sono delle deliziose streghe, ma una maledizione fa morire tutti gli uomini di cui si innamorano.",
-            "popularity": 70.1179,
-            "poster_path": "/nQnvBhl8YMrtaKMb6juzNE4znXu.jpg",
-            "release_date": "1998-10-16",
+            "id": 1408162,
+            "title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
+            "original_language": "ta",
+            "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
+            "overview": "",
+            "popularity": 81.5496,
+            "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+            "release_date": "2026-08-14",
             "softcore": false,
             "video": false,
-            "vote_average": 6.809,
-            "vote_count": 1957,
+            "vote_average": 7.3,
+            "vote_count": 28,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -196,82 +173,83 @@
             "original_language": "en",
             "original_title": "Interstellar",
             "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
-            "popularity": 72.8231,
+            "popularity": 71.9338,
             "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
             "release_date": "2014-11-05",
             "softcore": false,
             "video": false,
             "vote_average": 8.488,
-            "vote_count": 41218,
+            "vote_count": 41245,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+            "backdrop_path": "/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
             "genre_ids": [
-                80,
-                18,
-                53
+                10749,
+                35
             ],
-            "id": 860508,
-            "title": "L'uomo dei sussurri",
-            "original_language": "en",
-            "original_title": "The Whisper Man",
-            "overview": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come \"L'uomo dei sussurri\".",
-            "popularity": 68.8995,
-            "poster_path": "/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
-            "release_date": "2026-08-27",
+            "id": 1685882,
+            "title": "\u0bae\u0bca\u0ba4 \u0bb0\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf",
+            "original_language": "ta",
+            "original_title": "\u0bae\u0bca\u0ba4 \u0bb0\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf",
+            "overview": "",
+            "popularity": 70.38,
+            "poster_path": "/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+            "release_date": "2026-08-21",
             "softcore": false,
             "video": false,
-            "vote_average": 6.86,
-            "vote_count": 768,
+            "vote_average": 7.6,
+            "vote_count": 7,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
             "genre_ids": [
-                12,
-                28,
-                878
+                10751,
+                16,
+                878,
+                12
             ],
-            "id": 299536,
-            "title": "Avengers: Infinity War",
+            "id": 1184918,
+            "title": "Il robot selvaggio",
             "original_language": "en",
-            "original_title": "Avengers: Infinity War",
-            "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
-            "popularity": 93.52,
-            "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
-            "release_date": "2018-04-25",
+            "original_title": "The Wild Robot",
+            "overview": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana.",
+            "popularity": 62.7094,
+            "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
+            "release_date": "2024-09-12",
             "softcore": false,
             "video": false,
-            "vote_average": 8.243,
-            "vote_count": 32953,
+            "vote_average": 8.3,
+            "vote_count": 6632,
             "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+            "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
             "genre_ids": [
-                28,
-                12,
-                878
+                16,
+                10751,
+                35,
+                12
             ],
-            "id": 1228710,
-            "title": "Star Wars: The Mandalorian and Grogu",
+            "id": 1084244,
+            "title": "Toy Story 5",
             "original_language": "en",
-            "original_title": "The Mandalorian and Grogu",
-            "overview": "L\u2019Impero \u00e8 caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ci\u00f2 per cui l\u2019Alleanza Ribelle ha combattuto, ha arruolato l\u2019aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
-            "popularity": 87.0388,
-            "poster_path": "/4v442cNP1nOhjjmf2l4Id2oWeR.jpg",
-            "release_date": "2026-05-20",
+            "original_title": "Toy Story 5",
+            "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+            "popularity": 161.1158,
+            "poster_path": "/pbSlkjpduOmjPOI3XowK9fqomEM.jpg",
+            "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.48,
-            "vote_count": 1691,
+            "vote_average": 8.3,
+            "vote_count": 2280,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -288,13 +266,59 @@
             "original_language": "en",
             "original_title": "Avengers: Endgame",
             "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
-            "popularity": 86.1021,
+            "popularity": 95.2827,
             "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
             "release_date": "2019-04-24",
             "softcore": false,
             "video": false,
             "vote_average": 8.244,
-            "vote_count": 28736,
+            "vote_count": 28761,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 299536,
+            "title": "Avengers: Infinity War",
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
+            "popularity": 92.6134,
+            "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
+            "release_date": "2018-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.243,
+            "vote_count": 32970,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 1228710,
+            "title": "Star Wars: The Mandalorian and Grogu",
+            "original_language": "en",
+            "original_title": "The Mandalorian and Grogu",
+            "overview": "L\u2019Impero \u00e8 caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ci\u00f2 per cui l\u2019Alleanza Ribelle ha combattuto, ha arruolato l\u2019aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
+            "popularity": 80.1976,
+            "poster_path": "/4v442cNP1nOhjjmf2l4Id2oWeR.jpg",
+            "release_date": "2026-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.477,
+            "vote_count": 1709,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -311,38 +335,37 @@
             "original_language": "en",
             "original_title": "Avatar: Fire and Ash",
             "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
-            "popularity": 78.4649,
+            "popularity": 75.3609,
             "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
             "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.642,
-            "vote_count": 4357,
+            "vote_average": 7.643,
+            "vote_count": 4367,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+            "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
             "genre_ids": [
-                28,
-                12,
-                878
+                10749,
+                35
             ],
-            "id": 634649,
-            "title": "Spider-Man: No Way Home",
+            "id": 1032863,
+            "title": "The Love Hypothesis: Il teorema dell'amore",
             "original_language": "en",
-            "original_title": "Spider-Man: No Way Home",
-            "overview": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
-            "popularity": 68.8563,
-            "poster_path": "/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
-            "release_date": "2021-12-15",
+            "original_title": "The Love Hypothesis",
+            "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
+            "popularity": 218.1516,
+            "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
+            "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 7.947,
-            "vote_count": 23159,
+            "vote_average": 8.167,
+            "vote_count": 96,
             "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
         {
             "adult": false,
@@ -356,13 +379,13 @@
             "original_language": "es",
             "original_title": "Enfrentados: Marfil",
             "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando \u00e8 rapita e liberata senza spiegazione. Suo padre assume Sebasti\u00e1n Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente \u00e8 ci\u00f2 che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
-            "popularity": 160.0298,
+            "popularity": 143.3663,
             "poster_path": "/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
             "release_date": "2026-09-09",
             "softcore": false,
             "video": false,
-            "vote_average": 6.637,
-            "vote_count": 106,
+            "vote_average": 6.67,
+            "vote_count": 115,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -378,35 +401,13 @@
             "original_language": "en",
             "original_title": "The Runner",
             "overview": "La vita di Maia Marten, una brillante avvocata londinese, viene scossa da una telefonata durante la sua corsa mattutina. Suo figlio \u00e8 stato rapito. Per riaverlo, deve continuare a correre, obbedire a delle regole spietate e non fidarsi di nessuno. Ogni secondo misura fin dove una madre pu\u00f2 spingersi per salvare il proprio figlio.",
-            "popularity": 133.5525,
+            "popularity": 112.0989,
             "poster_path": "/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
             "release_date": "2026-09-03",
             "softcore": false,
             "video": false,
-            "vote_average": 6.75,
-            "vote_count": 545,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-            "genre_ids": [
-                10749,
-                18
-            ],
-            "id": 1516698,
-            "title": "The Last Sunrise. L'estate delle prime volte",
-            "original_language": "en",
-            "original_title": "The Last Sunrise",
-            "overview": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry, una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre. L'inaspettata storia con Juli\u00e1n le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta.",
-            "popularity": 99.2471,
-            "poster_path": "/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg",
-            "release_date": "2026-08-26",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.774,
-            "vote_count": 186,
+            "vote_average": 6.8,
+            "vote_count": 560,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -422,13 +423,13 @@
             "original_language": "en",
             "original_title": "Project Hail Mary",
             "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
-            "popularity": 103.186,
+            "popularity": 103.7227,
             "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
             "release_date": "2026-03-15",
             "softcore": false,
             "video": false,
-            "vote_average": 8.64,
-            "vote_count": 7900,
+            "vote_average": 8.639,
+            "vote_count": 7947,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -444,13 +445,13 @@
             "original_language": "fr",
             "original_title": "Toi+Moi - Seuls contre tous",
             "overview": "Alma Lancaster conduce una vita apparentemente perfetta in una famiglia benestante, convinta che stia studiando legge. In segreto, per\u00f2, coltiva il suo vero sogno: il cinema. All'universit\u00e0 per\u00f2 incontra Vadim Arcadi, un solitario ribelle e carismatico con un passato travagliato.",
-            "popularity": 91.3101,
+            "popularity": 99.1631,
             "poster_path": "/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg",
             "release_date": "2026-09-18",
             "softcore": false,
             "video": false,
-            "vote_average": 5.643,
-            "vote_count": 35,
+            "vote_average": 5.613,
+            "vote_count": 41,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -478,22 +479,6 @@
                 "ep_title": "La captura",
                 "url": "https://vixcloud.co/playlist/780955?token=bfc515b47d2b7e9748e61336511dff43&expires=1795086643&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg"
-            }
-        ],
-        "6435": [
-            {
-                "ep_id": "6435",
-                "ep_title": "Amori & incantesimi",
-                "url": "https://vixcloud.co/playlist/786439?b=1&token=87d65cb3ce1b563f1cbcf3ac342e560c&expires=1795086645&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/nQnvBhl8YMrtaKMb6juzNE4znXu.jpg"
-            }
-        ],
-        "860508": [
-            {
-                "ep_id": "860508",
-                "ep_title": "L'uomo dei sussurri",
-                "url": "https://vixcloud.co/playlist/783087?b=1&token=7e89c3a6f58aa0b87ea576e8866eefa3&expires=1795086647&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg"
             }
         ],
         "157336": [
@@ -550,14 +535,6 @@
                 "ep_title": "Marfil - gli opposti",
                 "url": "https://vixcloud.co/playlist/786166?b=1&token=4aeddcf26ee9d0817fbd3727e0fcf4cd&expires=1795086663&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg"
-            }
-        ],
-        "1516698": [
-            {
-                "ep_id": "1516698",
-                "ep_title": "The Last Sunrise. L'estate delle prime volte",
-                "url": "https://vixcloud.co/playlist/782537?b=1&token=a48f9d6005d84f62c8a0095bc0f47bdb&expires=1795086665&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg"
             }
         ],
         "687163": [
@@ -1132,15 +1109,6 @@
                 "plot": "La vita di Wade Wilson, che ha ormai smesso di fare il mercenario in costume, non ha preso una bella piega. Negli ultimi anni la sua compagna l'ha lasciato e ora sta frequentando un altro uomo; al lavoro, come venditore di auto al fianco di Peter, gli affari arrancano; il colloquio per entrare negli Avengers \u00e8 andato malissimo. Ci\u00f2 nonostante Wade ha ancora i suoi amici intorno e, quando la TVA lo rapisce e gli comunica che la sua linea temporale sta per essere cancellata, ecco che Wade torna a mettere i panni di Deadpool e si lancia in una assurda impresa, per cui ha assolutamente bisogno di collaborare con una variante di Wolverine. Dopo diversi tentativi abortiti, trova un Logan depresso dai molti fallimenti e lo porta con s\u00e9 per fermare la TVA, che per\u00f2 li esilia entrambi nel 'vuoto', un'apocalittica dimensione dominata da Alioth (una grande tempesta dal volto di lupo) e da Cassandra Nova, la folle e potentissima gemella di Charles Xavier."
             }
         ],
-        "634649": [
-            {
-                "ep_id": "634649",
-                "ep_title": "Spider-Man: No Way Home (2021) - \u2b50 7.9",
-                "url": "https://vixcloud.co/playlist/597167?b=1&token=42ab6e1896c505a778125c6aba7f15b7&expires=1795277638&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
-                "plot": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man."
-            }
-        ],
         "1641629": [
             {
                 "ep_id": "1641629",
@@ -1166,6 +1134,890 @@
                 "url": "https://vixcloud.co/playlist/789860?token=c84ae0c39c31537f75dc335bd9730ad1&expires=1795278408&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
                 "plot": ""
+            }
+        ],
+        "1032863": [
+            {
+                "ep_id": "1032863",
+                "ep_title": "The Love Hypothesis: Il teorema dell'amore (2026) - \u2b50 8.1",
+                "url": "https://vixcloud.co/playlist/790029?b=1&token=643236d8f06cdd0f29181f9f7bb25bb0&expires=1795479686&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
+                "plot": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore."
+            }
+        ],
+        "1184918": [
+            {
+                "ep_id": "1184918",
+                "ep_title": "Il robot selvaggio (2024) - \u2b50 8.3",
+                "url": "https://vixcloud.co/playlist/268184?token=4068d3f554cff49402122833a5f0f6bd&expires=1795479693&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
+                "plot": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana."
+            }
+        ],
+        "1405": [
+            {
+                "ep_id": "1405_S01E01",
+                "ep_title": "Dexter - S01E01 - Dexter (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170873?token=b7bbe20bf2f08c9c9cc28c21622b307f&expires=1795479699&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter Morgan \u00e8 un tecnico forense esperto in tracce ematiche, ma \u00e8 anche un serial killer che non riesce a fare a meno di uccidere gli assassini che scopre nel corso delle sue indagini, lasciandosi dei campioni di sangue delle sue vittime come ricordo.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E02",
+                "ep_title": "Dexter - S01E02 - Lacrime di coccodrillo (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170874?token=4f80f8a10f518a8177a43369eb28577e&expires=1795479701&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Debra si reca nell'appartamento del fratello ed inizia a parlare del caso del serial killer con lui. Successivamente Dexter si reca in tribunale e, dopo aver testimoniato su un caso, nota un uomo in preda allo sconforto.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E03",
+                "ep_title": "Dexter - S01E03 - La prima volta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170875?token=db2c52b8e9b63a8925c82c97c11f5487&expires=1795479704&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Viene svolto il funerale di Ricky Simmons, il poliziotto sotto copertura ucciso dalla banda di Carlos Guerrero. Doakes assicura a tutti che dar\u00e0 assiduamente la caccia al mandante del duplice omicidio.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E04",
+                "ep_title": "Dexter - S01E04 - Album di famiglia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170885?token=cabcb3701d648e817e4c5285700d8fba&expires=1795479706&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter arriva su una scena del crimine, dove \u00e8 stata rinvenuta una mano mozzata posta su una sdraio. La mano appartiene a un individuo di sesso maschile e Dexter non \u00e8 certo che questa sia opera dell'assassino del camion frigo.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E05",
+                "ep_title": "Dexter - S01E05 - Amore in stile americano (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170877?token=402b7a379521f8b203e0fa9ed602ea63&expires=1795479708&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter esamina l'ospedale dove Tony Tucci \u00e8 stato ritrovato. Nel frattempo arriva anche Deb che \u00e8 convintissima che su questa scena del crimine le uniche tracce che troveranno saranno quelle appartenenti alla vittima.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E06",
+                "ep_title": "Dexter - S01E06 - Rispedire al mittente (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170878?token=deda363d620020b5908f1e0e00c6f19f&expires=1795479710&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter viene contattato per recarsi nello sfasciacarrozze dove lui stesso ha ucciso la coppia di criminali che eliminava gli immigrati cubani clandestini. Dexter \u00e8 preoccupato per averli uccisi insieme perch\u00e9 potrebbe essergli sfuggito qualcosa.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E07",
+                "ep_title": "Dexter - S01E07 - I miei colleghi (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/280296?token=2be57917eb09df92b1f52e478076b1bf&expires=1795479712&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter analizza una scena del crimine in cui vittima \u00e8 un giovane studente che sembra essere stato giustiziato. Doakes rimane perplesso perch\u00e9 Dex sembra affascinato dal cadavere e dal modus operandi dell'assassino.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E08",
+                "ep_title": "Dexter - S01E08 - Strizzacervelli in busta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170880?token=40a1374918211b64ee0ca8ab027b0118&expires=1795479714&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Angel e Dexter sono in una stanza buia e studiano le macchie di sangue con la luce nera. La vittima, una giovane donna in una vasca da bagno, ha una pistola in mano e Angel pensa che si sia suicidata. Dexter non crede nell'ipotesi del suicidio perch\u00e9 la scelta di una pistola per uccidersi \u00e8 tipica degli uomini.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E09",
+                "ep_title": "Dexter - S01E09 - Segreti di famiglia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170881?token=42a173fa21a68c9866bc675e563182cb&expires=1795479715&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter riceve la notizia della morte del suo padre biologico e tutto questo \u00e8 davvero uno shock per lui, perch\u00e9 in base a quello che gli disse il suo padre adottivo, il vero padre dovrebbe essere morto da circa 30 anni.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E10",
+                "ep_title": "Dexter - S01E10 - Bagno di sangue (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170882?token=84ecce2d456486a0bd0616ced3cd60b2&expires=1795479717&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter viene chiamato sulla scena di un crimine: una stanza d'albergo piena del sangue di almeno cinque persone. Quando il tecnico entra per analizzare la situazione, nella sua mente riaffiorano i ricordi della sua infanzia e lo shock \u00e8 cos\u00ec forte da farlo stare male.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E11",
+                "ep_title": "Dexter - S01E11 - La verit\u00e0 \u00e8 svelata (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/215651?token=8afc0b039853981729eadb9d66b13a89&expires=1795479719&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Il killer del camion frigo rapisce qualcuno di molto vicino a Dexter, costringendolo a giocare a un nascondino mortale. Il killer del camion frigo colpisce ancora, lasciando un vero incubo prima di Natale al Santa's Cottage.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S01E12",
+                "ep_title": "Dexter - S01E12 - Nato libero (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170884?token=28b7ec4775485678c1c6f259ea8e3070&expires=1795479721&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Nella memoria di Dexter riaffiorano ora i ricordi che aveva perduto in seguito al terribile trauma infantile che aveva subito; questo sconvolgimento nella sua realt\u00e0 rischier\u00e0 seriamente di compromettere la sua copertura e di fargli commettere delle imprudenze.",
+                "season_num": 1,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E01",
+                "ep_title": "Dexter - S02E01 - \u00c8 vivo! (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170886?token=c1384d176148a633e501bb0db6da7d7f&expires=1795479724&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter si reca al bowling, in compagnia di Angel e Masuka; il sergente Doakes, nel suo tempo libero, continua a seguirlo perch\u00e9 \u00e8 convinto che stia nascondendo qualcosa.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E02",
+                "ep_title": "Dexter - S02E02 - La verit\u00e0 torna a galla (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170887?token=5d50d3cd5ef2a79dfafbf89d5d8daed1&expires=1795479726&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Il passato oscuro di Dexter sta tornando a galla, a causa del ritrovamento delle sue vittime nella baia di Miami. Dexter \u00e8 alla deriva.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E03",
+                "ep_title": "Dexter - S02E03 - Una scomoda bugia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170888?token=54f583d6d5ddd999c33587171f3b600d&expires=1795479728&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter mantiene la promessa fatta a Rita e va agli incontri per i tossicodipendenti, dove nota Lila Turney, una ragazza molto attraente che sembra adocchiarlo.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E04",
+                "ep_title": "Dexter - S02E04 - Il macellaio della baia di Miami (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170889?token=18f6fa31a9d2e5fdad4e5685596d23c4&expires=1795479730&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "C'\u00e8 una grandissima ondata di caldo a Miami e anche Dexter sembra soffrirlo. Rita intanto attende la visita di sua madre che non vede da tantissimo tempo perch\u00e9 non andava molto d'accordo con Paul.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E05",
+                "ep_title": "Dexter - S02E05 - Il vendicatore oscuro (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170890?token=ad994d3dc7234a72a7797b2bef2ff9b6&expires=1795479732&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter, mentre aspetta in coda per un caff\u00e8, sente dire dai passanti che il Macellaio merita una medaglia per togliere dalla strada dei pericolosi criminali. Poco dopo si ritrova su una nuova scena del crimine: un negozio di fumetti.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E06",
+                "ep_title": "Dexter - S02E06 - Dex, bugie e videotape (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170891?token=a84c88e46b183bf1270038890e307012&expires=1795479734&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter sta ancora riascoltando il nastro dell'interrogatorio di Harry a sua madre, dal quale traspare il sospetto che i due avessero una relazione, cosa che Dexter non prende molto bene.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E07",
+                "ep_title": "Dexter - S02E07 - Quella notte successe di tutto (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170892?token=2db5d494e3190957830d494d73bfbae4&expires=1795479736&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter porta avanti la sua passionale relazione con Lila, trovando in lei finalmente qualcuno capace di capirlo. Alla centrale scoprono che il Miami Tribune ha ricevuto un manifesto di 32 pagine, probabilmente scritto direttamente dal Macellaio.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E08",
+                "ep_title": "Dexter - S02E08 - Chiudere i conti (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170893?token=096a050b6853e37ff5ee86b86579506c&expires=1795479738&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Lila passa molto tempo da Dexter, e tra lei e Debra c'\u00e8 molta tensione. Intanto Dexter trova uno dei giocattoli di Cody nella sua borsa e pensa di doverglielo restituire, ma Lila cerca di mettergli in testa l'idea che il bambino lo voglia controllare.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E09",
+                "ep_title": "Dexter - S02E09 - La resistenza \u00e8 inutile (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170894?token=d3fca83c4e6b27d2162ed32c15ce6f29&expires=1795479739&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter sogna di trascinare il cadavere di Jiminez, l'uomo che ha ucciso la sera prima, nella centrale di polizia. In realt\u00e0 \u00e8 molto preoccupato per aver lasciato il corpo della sua vittima in un posto non sicuro perch\u00e9 teme che Lundy possa scoprirlo.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E10",
+                "ep_title": "Dexter - S02E10 - Ombre sulla morte di Harry (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170895?token=2bf0ff59f1074fe64f64b60ec09d4b85&expires=1795479741&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter \u00e8 alla capanna nell'Everglades e sta cercando di medicarsi la ferita alla gamba, mentre Doakes chiuso in cella gli dice che se non ha intenzione di lasciarlo andare, \u00e8 meglio che lo uccida.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E11",
+                "ep_title": "Dexter - S02E11 - Prossima svolta a sinistra (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/280101?token=02e6c65f259eda68648c97225d1aa60f&expires=1795479743&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter continua a pensare a suo padre e che lui sia la causa della sua morte. Doakes gli chiede se vuole confidarsi con lui sulla morte di Harry e approfitta del suo momento di debolezza per fargli fare la cosa giusta, cio\u00e8 liberarlo e costituirsi.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S02E12",
+                "ep_title": "Dexter - S02E12 - L'invasione britannica (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170897?token=666624eb028578aedc5afc3fdc9c03da&expires=1795479745&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Grazie al navigatore di Dexter, Lila arriva alla capanna dove \u00e8 rinchiuso Doakes e sta per entrare. Nel frattempo Debra, a casa di Dexter, ha ricevuto una chiamata: ci sono sviluppi su Doakes e sono sul punto di trovarlo; cos\u00ec chiede a Dexter se vuole unirsi alle ricerche.",
+                "season_num": 2,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E01",
+                "ep_title": "Dexter - S03E01 - Nostro padre (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170906?token=603c08afc05637921477ab09ebb597eb&expires=1795479748&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter ha scelto la sua prossima vittima, uno spacciatore, Fred Bowman detto Freebo, che sebbene fortemente indiziato dell\u2019omicidio di due ragazze, \u00e8 riuscito a sfuggire alla giustizia.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E02",
+                "ep_title": "Dexter - S03E02 - Alla ricerca di Freebo (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170907?token=a005cade6c23cf6fb831b4f2c68cc271&expires=1795479750&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter deve trovare Freebo, sospettato di aver commesso l'omicidio del fratello del procuratore distrettuale, e lo deve trovare prima della Polizia...",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E03",
+                "ep_title": "Dexter - S03E03 - Il leone si \u00e8 addormentato (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170908?token=9a70cd8dfad735d5db04602b9ee8d04e&expires=1795479752&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter accompagna Rita nelle prime attivit\u00e0 pre-parto. Nel frattempo, nota un uomo che sembra avere un preoccupante interesse per Astor.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E04",
+                "ep_title": "Dexter - S03E04 - Tutto in famiglia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170909?token=51d21926c6dc501ec48d2bf6a58ce46e&expires=1795479754&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter ha qualche difficolta' a convincere Rita che la sua proposta di matrimonio e' sincera e dettata dai sentimenti e non dall'interesse.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E05",
+                "ep_title": "Dexter - S03E05 - La scelta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170910?token=06ef4f2865ff80adc369903f13660211&expires=1795479756&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Mentre Debra scopre un'attrazione per il suo informatore, Rita va in cerca di una casa in cui vivere con Dexter. Intanto un racconto di Miguel indica a Dexter un nuovo bersaglio.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E06",
+                "ep_title": "Dexter - S03E06 - La prova del fuoco (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170911?token=f44581645e282691dc92670d94bfad8c&expires=1795479758&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter decide di mettere alla prova la lealta' di Miguel nei suoi confronti, e lo coinvolge in un nuovo omicidio. Ma cosi' viola il suo Codice personale di comportamento...",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E07",
+                "ep_title": "Dexter - S03E07 - Troppo facile (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170912?token=b6e3df14710bd523b15dbf8ee2b494fc&expires=1795479760&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter aveva sempre scelto da solo le vittime su cui accanirsi: ora invece riceve ben due 'richieste', una da parte di Miguel Prado e una da una vecchia amica.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E08",
+                "ep_title": "Dexter - S03E08 - Effetto farfalla (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170913?token=9107582cde446c67c7ef8668c0de22a7&expires=1795479762&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Debra e Quinn trovano un indizio che sblocca il caso su cui stanno lavorando. Prado, sempre piu' vicino a Dexter, gli fa una richiesta sorprendente.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E09",
+                "ep_title": "Dexter - S03E09 - Tradito da un amico (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170914?token=c8cb1c53027afa7177a3661bc7c7f432&expires=1795479764&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter indaga su Miguel e scopre un collegamento tra lui e la scomparsa di Ellen Wolf. Debra intanto lotta contro il tempo per salvare Anton, nelle mani dello Scorticatore.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E10",
+                "ep_title": "Dexter - S03E10 - Ognuno per s\u00e9 (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170915?token=22b725e4b690bf0d4e99bd90b2a04ee6&expires=1795479766&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Le azioni del vice procuratore hanno messo in allarme Dexter, che ora non si fida piu' di lui. Cosi' decide di trovare un modo per spezzare il legame che si e' creato tra loro.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E11",
+                "ep_title": "Dexter - S03E11 - La resa dei conti (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170916?token=5f9fe9ac5e7dc261ec59b6afc7e787ca&expires=1795479768&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "La resa dei conti tra Dexter e Miguel e' vicina. Il tenente LaGuerta indaga sul collegamento tra Prado e la morte di Ellen Wolf. Debra, intanto, scopre un segreto.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S03E12",
+                "ep_title": "Dexter - S03E12 - Finch\u00e9 morte non vi separi (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170917?token=5a6d09e8a8cf5c1fa2c3375f679ceb5a&expires=1795479769&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Il giorno delle nozze si avvicina, e la situazione per Dexter sta precipitando: Ramon continua a perseguitarlo, e la polizia ritrova il cadavere di Miguel.",
+                "season_num": 3,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E01",
+                "ep_title": "Dexter - S04E01 - Una vita da sogno (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170920?token=3f5c4c87802dbd16dde5db8615629991&expires=1795479772&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Sono sei mesi che Dexter e' sposato con Rita e fatica ad adattarsi alla sua nuova vita: ha problemi di insonnia, che lo mettono in grave difficolta' sul lavoro e gli fanno commettere addirittura un madornale errore in un'aula di tribunale.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E02",
+                "ep_title": "Dexter - S04E02 - Frammenti di memoria (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170921?token=03fa4e5c12cdbdee50e2e20596a62092&expires=1795479774&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dopo l'incidente Dexter non ha ferite gravi, tuttavia \u00e8 confuso e non riesce in nessun modo a ricordare dove ha nascosto il corpo della sua ultima vittima. Nel frattempo, il Trinity Killer \u00e8 tornato in azione, e sta scegliendo una nuova vittima.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E03",
+                "ep_title": "Dexter - S04E03 - Luci accecanti (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170922?token=8d83dc8d908c6501f5d96a1ec4299d8b&expires=1795479776&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Le pressioni della vita matrimoniale e i rapporti di buon vicinato cominciano ad opprimere Dexter. Mentre il Trinity Killer fa una nuova vittima, LaGuerta e' in dubbio se seguire questo caso o quello degli 'omicidi in vacanza'.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E04",
+                "ep_title": "Dexter - S04E04 - 3 giorni di libert\u00e0 (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170923?token=5747dfd3419ec08d57fe6a03015c1d48&expires=1795479778&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Mentre Rita e i bambini sono fuori citta', Dexter finalmente puo' dedicarsi ad una nuova vittima e concentra tutte le sue attenzioni su Zoey Kruger, una poliziotta che ha un segreto da nascondere. Debra intanto passa di nuovo parecchio tempo con l'ex agente Lundy.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E05",
+                "ep_title": "Dexter - S04E05 - Sete di vendetta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170924?token=1fa55aae90bade126d6fa481f496a7b4&expires=1795479780&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dopo il suo ferimento Debra e' ricoverata in ospedale e Dexter la va a trovare. La polizia pensa che il responsabile della sparatoria sia il killer delle vacanze, mentre Dexter gia' si muove per suo conto, convinto che si tratti invece del Trinity Killer.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E06",
+                "ep_title": "Dexter - S04E06 - Datemi un martello (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/311010?token=d9c4608710206fc780cad41a61ab52ac&expires=1795479782&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter fa parecchi passi in avanti con il caso del Trinity Killer, arrivando a scoprire tutto della sua doppia vita. Intanto, Debra crede di poter scoprire il colpevole dell'omicidio di Lundy, mentre Rita trascina Dexter da una psicologa perche' il suo comportamento la preoccupa.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E07",
+                "ep_title": "Dexter - S04E07 - Calma piatta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170926?token=24eb1e5ad7b7db7324b0e85c34543a8c&expires=1795479784&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Proprio quando a Dexter sembra di aver trovato un equilibrio tra famiglia, lavoro, e i propri fantasmi interiori, un nuovo caso viene a sconvolgere la sua mente: un braccio e' stto ritrovato nel corpo di un alligatore. Per Morgan ha inizio una nuova caccia personale.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E08",
+                "ep_title": "Dexter - S04E08 - Rimorsi (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170927?token=11da11f1876790aedf81762742442efe&expires=1795479786&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter e' sconvolto per l'errore commesso, che e' costato la vita di un innocente, e decide di occuparsi di Mitchell subito, appena sara' possibile. A Debra intanto viene tolto il caso del Trinity Killer per via del suo coinvolgimento come vittima, ma lei continua a indagare per suo conto.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E09",
+                "ep_title": "Dexter - S04E09 - Giorno di festa (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170928?token=7f9fe44317e7f57cb9f2e74e4ad11acd&expires=1795479788&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter cerca ancora di capire le vere motivazioni del Trinity Killer parlando con la sua famiglia; scopre che Arthur Mitchell potrebbe non avere una maschera perfetta, dopotutto. Intanto Cody ha un incidente nella rimessa personale di Dexter e qualcuno ne ha sfondato la porta...",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E10",
+                "ep_title": "Dexter - S04E10 - Bambini sperduti (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170929?token=102c884caaf46472a97e6a08020dba00&expires=1795479790&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter crede di aver scoperto nuovi dettagli sugli omicidi commessi da Trinity Killer, il quale ha ufficialmente riaperto il suo ciclo di violenza e morte: stavolta il suo bersaglio pero' non sono donne, ma un bambino di 10 anni, che a un certo punto sparisce.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E11",
+                "ep_title": "Dexter - S04E11 - Faccia a faccia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170930?token=ca8f996fb7cd28189610645d78d2fe4c&expires=1795479792&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter e' determinato a fermare e uccidere lui stesso il Trinity Killer: dal momento che la polizia e Debra sono vicini a identificarlo, Dex inscena una falsa pista su cui indirizzare la Polizia. Rita intanto decide di rivelare a suo marito del suo bacio col vicino.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S04E12",
+                "ep_title": "Dexter - S04E12 - La storia si ripete (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170931?token=8437ba268c1c94945d43090a252ed604&expires=1795479794&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Il momento della resa dei conti fra Dexter e Arthur e' ormai arrivato: Dex convince Rita ad allontanarsi dalla citta' coi ragazzi, per avere campo libero per agire. Debra finalmente scopre una verita' tenuta per troppo tempo nascosta, mentre Rita affronta la realta'.",
+                "season_num": 4,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E01",
+                "ep_title": "Dexter - S05E01 - Colpa mia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170932?token=02eeb3bed3675d9d3f49d3c4e14ae843&expires=1795479796&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter deve fare i conti con il suo lutto, con il dolore ma anche con il senso di colpa per quella morte: i colleghi sono quasi tutti solidali, ma qualcuno inizia invece ad avere dei sospetti proprio su di lui...",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E02",
+                "ep_title": "Dexter - S05E02 - La palude dell'orrore (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170933?token=717559dd8c6f64a2f4f64fb818ca83a3&expires=1795479798&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "L'interrogatorio di Dexter con l'FBI va bene: i federali non possono accusarlo dell'omicidio di sua Non altrettanto bene invece va con i suoi figli: la vita da padre single minaccia di intralciare i suoi momenti di 'caccia'...",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E03",
+                "ep_title": "Dexter - S05E03 - Santa muerte (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170934?token=969db8a2129bb2bda159a6e39ff15292&expires=1795479800&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Con l'aiuto di Debra, Dexter riesce a trovare una babysitter per il figlio minore, in modo da potersi dedicare alle sue 'altre' attivita'. Intanto Quinn inizia a notare delle somiglianze tra Dexter e il suo alias.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E04",
+                "ep_title": "Dexter - S05E04 - La bella e la bestia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170935?token=8eda82626f997693ea90d52afa75013e&expires=1795479802&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dopo aver ucciso il serial killer Fowler, Dexter deve decidere cosa fare dell'ultima vittima dell'assassino: la ragazza era ancora viva, e ha visto Dexter in azione... Nel frattempo Quinn e' sempre piu' convinto che Dexter sia proprio l'uomo che aveva collaborato col Trinity Killer.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E05",
+                "ep_title": "Dexter - S05E05 - Il battesimo del sangue (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170936?token=0d0f0578f74a8ac8d1f0bb77158ae901&expires=1795479804&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter prova a convincere Lumen, la ragazza che ha salvato dal serial killer, a tornare a casa. Ma lei vuole vendicarsi degli uomini che l'hanno violentata e Dexter pensa che forse l'unica cosa giusta da fare sia aiutarla...",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E06",
+                "ep_title": "Dexter - S05E06 - Ogni cosa \u00e8 illuminata (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170937?token=4f34ce1f7536c344e1273b95659433a0&expires=1795479806&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter progetta l'eliminazione della sua prossima vittima, Lance Robinson, ma viene distratto da una richiesta di aiuto della sua nuova amica, Lumen: la ragazza ha individuato uno dei suoi carnefici e ha bisogno di Dexter per la sua vendetta.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E07",
+                "ep_title": "Dexter - S05E07 - Intesa (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170938?token=8d24c8c14ce6c539b32f0ea1f373c453&expires=1795479808&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter ha deciso di aiutare Lumen a trovare e punire gli altri due uomini che l'hanno violentata. Ma nel frattempo viene chiamato sul luogo di un incidente stradale, dove trova inaspettatamente tracce del passaggio di un killer a lui ben noto.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E08",
+                "ep_title": "Dexter - S05E08 - Una visita inattesa (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170939?token=fc92e464128fc3da43fefdeadb661897&expires=1795479810&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter ha identificato uno degli stupratori di Lumen, e si appresta ad adottare le solite misure per punirlo: si prepara ad ucciderlo. Stavolta non lavora in solitaria, ma anzi illustra a Lumen quello che succedera'... Ma le cose non vanno come previsto.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E09",
+                "ep_title": "Dexter - S05E09 - Il ciondolo (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170940?token=8f5adde446756e84317f0b2036b943ec&expires=1795479812&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter cerca di conoscere meglio la sua prossima vittima, il guru dell'auto-aiuto, passando del tempo insieme a lui. Nel frattempo si ritrova brutalmente messo a confronto dei problemi adolescenziali della sua figliastra, Astor.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E10",
+                "ep_title": "Dexter - S05E10 - La prima volta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170941?token=8c0dd0a7dd861b717a2e78e51f938490&expires=1795479814&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Il tenente LaGuerta decide di riaprire il caso delle 'ragazze nel barile', e lo assegna a Debra e Quinn. Nessuno sa che anche Dexter si sta 'occupando' della cosa, ma Debra ha un'intuizione che si avvicina molto alla verita'.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E11",
+                "ep_title": "Dexter - S05E11 - In trappola (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170942?token=825d8e819ec4befddb2f243808dd6428&expires=1795479815&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Mentre Dexter e Lumen progettano la mossa finale per colpire Jordan Chase, Dexter si rende conto di essere videosorvegliato da qualcuno, e deve interrompere le manovre. Intanto Debra condivide con i colleghi la sua teoria sul killer 'vigilante'.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S05E12",
+                "ep_title": "Dexter - S05E12 - Il buio oltre la luce (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170943?token=85297407b3b095fed1e5183cbe37e688&expires=1795479817&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Proprio il giorno in cui Dexter ha deciso di colpire finalmente Jordan Chase e vendicare Lumen, tutta la sua famiglia si presenta da lui per festeggiare il compleanno di Harrison... Districarsi dagli impegni per portare a termine il suo compito non sara' facile.",
+                "season_num": 5,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E01",
+                "ep_title": "Dexter - S06E01 - Fede (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170944?token=d6dcb5fa49faeec8872a98c5f14ff142&expires=1795479820&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter partecipa a una rimpatriata del liceo solo per inseguire il vecchio re del ballo. Intanto, l'uomo indaga su omicidi aventi a che fare con la religione e si interroga sulla fede, mentre Debra diventa inaspettatamente un'eroina.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E02",
+                "ep_title": "Dexter - S06E02 - C'era una volta (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170945?token=e97a46d9ce2ad63fbea81c808a960a6c&expires=1795479822&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Un criminale che si dichiara pentito e che dice di aver ritrovato Dio, fratello Sam, sta aiutando la polizia a risolvere alcuni misteriosi omicidi. L'uomo e' una vecchia conoscenza di Dexter... Intanto Quinn chiede a Debra di sposarlo.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E03",
+                "ep_title": "Dexter - S06E03 - La fatina dei denti (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170946?token=4632165a2efafdd7abefe74ba593f4b5&expires=1795479824&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter fa i conti con un disincantato sguardo sul suo futuro quando un serial killer del passato riappare. Intanto, Travis ha difficolt\u00e0 a rendere felice il proprio mentore, mentre lui e Gellar si preparano per la prossima vittima.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E04",
+                "ep_title": "Dexter - S06E04 - I quattro cavalieri dell'apocalisse (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170947?token=4f425bee87f70da2bf3970ae4877dea3&expires=1795479826&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Un'emergenza riguardante il figlio Harrison costringe Dexter a chiedere inaspettatamente aiuto a Sam. Nel frattempo, quando viene chiamato sulla nuova scena del crimine architettata da Travis e Gellar, l'uomo affronta una crisi mistica.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E05",
+                "ep_title": "Dexter - S06E05 - L'angelo della morte (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170948?token=7b7437fce37c14cca1391c3d71adbe17&expires=1795479828&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Con l'aiuto di Sam, Dexter si chiede se c'\u00e8 una luce che possa fare da controparte al suo lato oscuro. La ricerca dei 'Killer dell'Apocalisse' porta Dexter in una nuova direzione e Batista e Quinn si recano all'universit\u00e0 dove insegnava Gellar.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E06",
+                "ep_title": "Dexter - S06E06 - Il messaggio (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170949?token=f52000c109d7b288d5caeb5b264c82e4&expires=1795479830&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Un caso che lo riguarda di persona risveglia i bisogni pi\u00f9 oscuri di Dexter. Intanto, Debra \u00e8 sopraffatta dal suo nuovo ruolo da tenente e, inoltre, scopre che Quinn \u00e8 andato a letto con un testimone del caso dell'Apocalisse.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E07",
+                "ep_title": "Dexter - S06E07 - Nebraska (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170950?token=cf6bf46958575532961b8eba8f28704f&expires=1795479832&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter si reca in Nebraska per sistemare alcune questioni in sospeso del passato. Intanto, Debra fa i conti con le difficolt\u00e0 che sono seguite alla sua promozione mentre conduce le indagini sul caso dell'Apocalisse.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E08",
+                "ep_title": "Dexter - S06E08 - Peccato di omissione (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170951?token=f33b0c322e5111cdaf68565c5ea7cc96&expires=1795479833&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter utilizza gli insegnamenti di fratello Sam per seguire nuove piste lasciate dal 'Killer dell'Apocalisse'. Nel mentre, Debra discute con LaGuerta riguardo al caso di una prostituta ritrovata morta.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E09",
+                "ep_title": "Dexter - S06E09 - Le sette coppe dell'ira (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170952?token=89d6495c6b983655758c8e64caafd2d6&expires=1795479835&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter riceve aiuto da una persona inaspettata mentre \u00e8 alla ricerca dei 'Killer dell'Apocalisse' e, nel mentre, cerca di stare un passo avanti alla polizia. Debra intanto, grazie alla terapia, fa scoperte importanti su di s\u00e9.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E10",
+                "ep_title": "Dexter - S06E10 - L'assenzio (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170953?token=c4c390c4d00e2eb227252a2b394d9054&expires=1795479837&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter cerca di scovare la prossima vittima dei 'Killer dell'Apocalisse' prima che sia troppo tardi. Debra, intanto, ha una reazione forte di fronte alla scena di un crimine e si rende cos\u00ec conto di fare troppo affidamento sul fratello.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E11",
+                "ep_title": "Dexter - S06E11 - Il lago di fuoco (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170954?token=f05cdef01e1f9348ef2612b22a41af8c&expires=1795479839&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter si rende conto che, per catturare i 'Killer dell'Apocalisse', deve ricostruire anche lui una scena altrettanto macabra. Intanto, lo scontro fra Debra e LaGuerta sul caso della prostituta degenera.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S06E12",
+                "ep_title": "Dexter - S06E12 - La fine del mondo (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170955?token=dfdc733fff64bde195b3dd3007984dc6&expires=1795479841&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter e la sezione omicidi gareggiano contro un'eclissi lunare per fermare i 'Killer dell'Apocalisse' prima che questi compiano un ultimo e atroce atto. Nel frattempo, Debra guarda in faccia le proprie emozioni.",
+                "season_num": 6,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E01",
+                "ep_title": "Dexter - S07E01 - Il dubbio (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170956?token=747bd81a24e5df9ed3295183e8d587ab&expires=1795479844&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Debra, ancora scossa dopo aver visto il fratello uccidere Travis Marshall, cerca di riconciliarsi con Dexter. Intanto, LaGuerta trova prove che la inducono a rimettere in discussione il caso del 'Macellaio della baia di Miami'.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E02",
+                "ep_title": "Dexter - S07E02 - Il codice di Debra (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170957?token=081a185753ec81656e0ef16af66659ca&expires=1795479846&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Una vittima della zona dichiara di avere nuove informazioni riguardanti un folle omicida quindicenne. Debra cerca di trovare un rimedio agli impulsi omicidi del fratello mentre il caso Mike Anderson si stringe attorno alla malavita ucraina.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E03",
+                "ep_title": "Dexter - S07E03 - La prossima vittima (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170958?token=0b4608b3ccf26a408252449e29820139&expires=1795479848&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter tenta di coinvolgere Debra nel suo nuovo inseguimento. LaGuerta, invece, cerca di convincere Batista ad aiutarla a riaprire il caso del 'Macellaio della baia di Miami' in quanto la donna crede che l'assassino sia ancora in libert\u00e0.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E04",
+                "ep_title": "Dexter - S07E04 - Corri (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170959?token=3d53dfafe3e8ffbb36ad29bff02ef36e&expires=1795479850&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dopo la cattura di un temibile omicida, le cose si mettono male per la polizia di Miami e Debra entra in crisi. Dexter, per aiutare la sorella, finisce col cacciarsi in una brutta situazione, mentre la mafia ucraina continua a cercare vendetta.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E05",
+                "ep_title": "Dexter - S07E05 - Nuotare negli abissi (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170960?token=0ee98c01f35db22e8cc8648b7d2f7375&expires=1795479852&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Mentre cerca di scoprire perch\u00e9 Louis \u00e8 stato ucciso sulla sua barca, Dexter deve essere pi\u00f9 furbo di Isaak. Emergono nuovi indizi sul caso del folle omicida Wayne Randall grazie alla sua vecchia complice Hannah McKay, che nasconde un segreto.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E06",
+                "ep_title": "Dexter - S07E06 - Fiori rosa (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170961?token=fb468dd0fe2fcf49d0a0418133c4d60b&expires=1795479853&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Debra entra in contatto con uno scrittore locale che ha delle prove contro Hannah McKay, la nuova ossessione di Dexter. Nonostante gli sforzi, la donna non riesce a impedire a LaGuerta di stravolgere il caso del 'Macellaio della baia di Miami'.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E07",
+                "ep_title": "Dexter - S07E07 - Chimica (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170962?token=3d411d2aa51209b533716ce78af57d79&expires=1795479855&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter e Hannah diventano pi\u00f9 intimi e, quando Sal Price lo scopre, vuole l'esclusiva sulla loro storia. Sal, nel frattempo, aiuta Debra a cercare nuove indizi su Hannah, mentre Quinn compie scelte discutibili per salvare la sua fidanzata Nadia.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E08",
+                "ep_title": "Dexter - S07E08 - Argentina (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170963?token=da2b39d670dd10209052d21265ea32a0&expires=1795479857&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter cerca di mantenere Debra all'oscuro della sua storia con Hannah, ma una visita inaspettata dei figli fa saltare in aria i piani dell'uomo. Intanto Isaak, uscito di prigione, si mette nuovamente sulle sue tracce.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E09",
+                "ep_title": "Dexter - S07E09 - Il ricatto (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170964?token=4e9dee808dd16142dc6dd866a06eaa85&expires=1795479859&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter \u00e8 preoccupato ora che Isaak \u00e8 nuovamente in libert\u00e0. Mentre la polizia di Miami \u00e8 alla ricerca di un killer piromane, Dexter fa di tutto per proteggere la propria storia con Hannah e chiede aiuto alla sorella Debra.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E10",
+                "ep_title": "Dexter - S07E10 - ...ad ogni costo (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170965?token=3cbc778d1dd825c49f40b614edc58304&expires=1795479861&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Una visita a sorpresa del padre di Hannah mette Dexter in allerta. Quinn, per difendere l'onore di Nadia, si mette in una brutta situazione, mentre LaGuerta chiede all'ex capo Matthews di aiutarla nel caso del 'Macellaio della baia di Miami'.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E11",
+                "ep_title": "Dexter - S07E11 - Vedi quello che vedo io?? (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170966?token=c3b7de68835d28858433e883c828d699&expires=1795479863&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "All'insaputa di Dexter, Debra riceve un indizio potenzialmente incriminante dal padre di Hannah. In seguito, Dexter scopre che l'uomo che ha ucciso sua madre \u00e8 stato rilasciato di prigione e inizia a progettare un assassinio mai visto prima d'ora.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S07E12",
+                "ep_title": "Dexter - S07E12 - L'inizio della fine (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170967?token=5aff60235092a3366d3f51500a442d91&expires=1795479865&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "LaGuerta si avvicina sempre di pi\u00f9 al segreto di Dexter e l'uomo deve lottare per proteggere s\u00e9 stesso, Debra, e la vita che si \u00e8 costruito.",
+                "season_num": 7,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E01",
+                "ep_title": "Dexter - S08E01 - Una splendida giornata (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170968?token=418e00ce177958f0bc8fdc3feebf3186&expires=1795479868&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Sono passati mesi dalla morte di LaGuerta, Debra ha lasciato la polizia, un nuovo assassino terrorizza Miami, e Dexter continua a collaborare con la polizia ed essere segretamente un serial killer.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E02",
+                "ep_title": "Dexter - S08E02 - Il rovescio della medaglia (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170969?token=a44e8fa635933b7aa38affb2ac69fc6a&expires=1795479870&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "La polizia di Miami e' ancora alla ricerca del killer chiamato 'Il chirurgo del cervello'. Intanto lo stato di Debra si riflette anche su Dexter, che fatica ad aprirsi anche con la dottoressa Vogel.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E03",
+                "ep_title": "Dexter - S08E03 - Sensi di colpa (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170970?token=056fe0754863f8346b9a7dbe91257cf0&expires=1795479872&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "La vita di Debra sta prendendo una piega distruttiva, e sembra che suo fratello non possa fare proprio niente per impedirlo. E' sempre la Vogel a cercare di guidare Dexter nelle sue scelte, mentre lui continua la sua ricerca del Chirurgo del cervello.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E04",
+                "ep_title": "Dexter - S08E04 - A met\u00e0 dell'opera (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170971?token=16fe67fffafbf40e0bded419a9f20a12&expires=1795479874&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Debra continua ossessivamente a tornare sui suoi sensi di colpa, tanto che si rivela necessario affidarla alla Vogel. Nel frattempo Dexter si occupa di un altro serial killer della lista fornitagli dalla sua terapista...",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E05",
+                "ep_title": "Dexter - S08E05 - Questo porcellino (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170972?token=a9ac617dcdf0d95820b2bfc64d00477f&expires=1795479876&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dopo il tentativo fallito di omicidio-suicidio di Debra, lei e Dexter si ritrovano nello studio della dottoressa Vogel, per cercare di capire come gestire la loro folle relazione. Ma molto presto avranno un altro grosso problema con cui fare i conti...",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E06",
+                "ep_title": "Dexter - S08E06 - Un momento di riflessione (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170973?token=7ec0533e6d49d8b5e4ec92a8d03fbb92&expires=1795479878&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter e Debra tornano a comportarsi come fratelli, e complici, mentre Debra inizia ad avere dei dubbi sulla Vogel. Intanto Quinn e Dexert hanno entrambi il sospetto che Zach Hamilton possa essere un assassino.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E07",
+                "ep_title": "Dexter - S08E07 - Dress Code (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170974?token=cf12185e933f6fbf33df03c44906afbd&expires=1795479880&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Una serie di eventi portano Dexter a sospettare delle vere motivazioni di Hannah McKay. Intanto, come era desiderio della dottoressa Vogel, Dexter decide di accettare di 'istruire' un giovane allievo, condividendo con lui il suo codice.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E08",
+                "ep_title": "Dexter - S08E08 - Siamo gi\u00e0 arrivati? (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170975?token=4af77cc5ff99b736b442ab17951fda77&expires=1795479881&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Cassie, vicina di casa di Dexter, viene uccisa, e lui si convince che il colpevole possa essere Zach Hamilton. Mentre indaga aiutato da Hannah, Deb lo informa che potrebbe tornare in polizia.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E09",
+                "ep_title": "Dexter - S08E09 - La colonna sonora della tua vita (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170976?token=04bc4139230d6eca687d1f6661a99fe6&expires=1795479883&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter e' ormai determinato a rifarsi una vita lontano, in Argentina, con Hannah e Harrison. Ma non prima di aver sistemato definitivamente la questione del Chirugo del Cervello, che lo porta ad una scioccante scoperta...",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E10",
+                "ep_title": "Dexter - S08E10 - Addio Miami (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170977?token=c29292ab1c5e6fd962132a85b0b21f59&expires=1795479885&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Dexter sta pianificando ogni cosa per la sua partenza per l'Argentina, incluso un progetto che riguarda la sicurezza della dottoressa Vogel: proteggerla da suo figlio Saxon...",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E11",
+                "ep_title": "Dexter - S08E11 - Caccia all'uomo (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170978?token=56c4f97cf36aed59256150172dd48ee1&expires=1795479887&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Ancora scosso dalla morte della Vogel, Dexter e' ancora piu' determinato ad uccidere Saxon prima di partire per l'Argentina. Ma l'uomo si fa vivo e propone a Dexter un patto interessante.",
+                "season_num": 8,
+                "raw_title": "Dexter"
+            },
+            {
+                "ep_id": "1405_S08E12",
+                "ep_title": "Dexter - S08E12 - Ricorda i mostri (\u2b50 8.2)",
+                "url": "https://vixcloud.co/playlist/170979?token=d2760a68c8f98b87637888d2c2ae1f26&expires=1795479889&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+                "plot": "Tutto e' pronto per la partenza di Dexter e Hannah per l'Argentina. Ma le cose, nell'episodio che conclude questa serie di culto, stanno per prendere una piega inaspettata...",
+                "season_num": 8,
+                "raw_title": "Dexter"
             }
         ]
     }
