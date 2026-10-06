@@ -1,116 +1,115 @@
 {
-    "last_trend_time": 1790545457.7019908,
+    "last_trend_time": 1791294120.006151,
     "trends": [
         {
             "adult": false,
-            "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-            "id": 1492640,
-            "title": "Unabomber",
-            "original_title": "Unabomber",
-            "overview": "Questo film drammatico ispirato a fatti veri racconta il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber, mentre l'FBI gli d\u00e0 la caccia.",
-            "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+            "backdrop_path": "/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
+            "id": 969681,
+            "title": "Spider-Man: Brand New Day",
+            "original_title": "Spider-Man: Brand New Day",
+            "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter \u00e8 ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce pi\u00f9 il suo nome, si \u00e8 dedicato interamente alla protezione della sua citt\u00e0. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, d\u00e0 origine a una delle minacce pi\u00f9 potenti che abbia mai affrontato.",
+            "poster_path": "/fRbJeDILi6nLYCT5XeFapjVTlSK.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
-                53,
-                18,
-                80
-            ],
-            "popularity": 155.529,
-            "release_date": "2026-09-25",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.102,
-            "vote_count": 122,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-            "id": 1377237,
-            "title": "The Rush - Corsa contro il tempo",
-            "original_title": "Runner",
-            "overview": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
-            "poster_path": "/ze4xBMZVulLZhychR3i4Izyj6W0.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                35
-            ],
-            "popularity": 68.9363,
-            "release_date": "2026-09-07",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.659,
-            "vote_count": 44,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-            "id": 1423191,
-            "title": "Resident Evil",
-            "original_title": "Resident Evil",
-            "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
-            "poster_path": "/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                27,
                 878,
+                28,
                 12
             ],
-            "popularity": 430.7983,
-            "release_date": "2026-09-16",
+            "popularity": 719.5221,
+            "release_date": "2026-07-29",
             "softcore": false,
             "video": false,
-            "vote_average": 7.319,
-            "vote_count": 540,
+            "vote_average": 8.118,
+            "vote_count": 3620,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-            "id": 1032863,
-            "title": "The Love Hypothesis: Il teorema dell'amore",
-            "original_title": "The Love Hypothesis",
-            "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
-            "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                10749,
-                35
-            ],
-            "popularity": 312.6731,
-            "release_date": "2026-09-23",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.221,
-            "vote_count": 297,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
-            "id": 1339713,
-            "title": "Obsession",
-            "original_title": "Obsession",
-            "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ci\u00f2 che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-            "poster_path": "/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
+            "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+            "id": 1291595,
+            "title": "Insidious - Fuori dall\u2019Altrove",
+            "original_title": "Insidious: Out of the Further",
+            "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui \u00e8 nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entit\u00e0 malvagia inizia a darle la caccia, Gemma scopre un'abilit\u00e0 che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma pu\u00f2 portare ci\u00f2 che vive l\u00ec nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+            "poster_path": "/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
                 27,
                 53
             ],
-            "popularity": 159.8985,
-            "release_date": "2026-05-13",
+            "popularity": 130.5284,
+            "release_date": "2026-08-19",
             "softcore": false,
             "video": false,
-            "vote_average": 8.19,
-            "vote_count": 5768,
+            "vote_average": 6.6,
+            "vote_count": 204,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+            "id": 1101412,
+            "title": "Fall 2: Deadpoint",
+            "original_title": "Fall 2: Deadpoint",
+            "overview": "",
+            "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53
+            ],
+            "popularity": 57.8372,
+            "release_date": "2026-09-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 65,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+            "id": 1284046,
+            "title": "Onslaught - Assalto finale",
+            "original_title": "Onslaught",
+            "overview": "Quando una squadra di supersoldati geneticamente modificati fuori controllo evade da una base governativa segreta e si scatena nel deserto del New Mexico, un\u2019ex cecchina dell\u2019esercito dovr\u00e0 tornare a essere la temibile combattente di un tempo per proteggere sua figlia e sopravvivere al loro infernale assalto.",
+            "poster_path": "/ifrboaovWTOPA2KOenwQ0VyHqbo.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "popularity": 26.9297,
+            "release_date": "2026-09-02",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 33,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+            "id": 1248832,
+            "title": "Digger",
+            "original_title": "Digger",
+            "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
+            "poster_path": "/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 226.1274,
+            "release_date": "2026-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 181,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -122,62 +121,39 @@
                 80
             ],
             "id": 1492640,
-            "title": "Unabomber",
+            "title": "UNABOMBER",
             "original_language": "en",
-            "original_title": "Unabomber",
-            "overview": "Questo film drammatico ispirato a fatti veri racconta il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber, mentre l'FBI gli d\u00e0 la caccia.",
-            "popularity": 155.529,
+            "original_title": "UNABOMBER",
+            "overview": "Il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber.",
+            "popularity": 96.4254,
             "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
             "release_date": "2026-09-25",
             "softcore": false,
             "video": false,
-            "vote_average": 7.229,
-            "vote_count": 105,
+            "vote_average": 6.568,
+            "vote_count": 353,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+            "backdrop_path": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
             "genre_ids": [
-                878,
+                10749,
                 18
             ],
-            "id": 335984,
-            "title": "Blade Runner 2049",
+            "id": 1458857,
+            "title": "Doing Life",
             "original_language": "en",
-            "original_title": "Blade Runner 2049",
-            "overview": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che \u00e8 rimasto della societ\u00e0. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
-            "popularity": 85.983,
-            "poster_path": "/4XJQG11Ytl8mKfgbl2jkoY5ZuFX.jpg",
-            "release_date": "2017-10-04",
+            "original_title": "Doing Life",
+            "overview": "Una madre single, che ogni singolo giorno lotta con tutta se stessa per rimanere a galla, incontra un ex detenuto pentito - ricco di talenti inespressi - e con lui forma un legame del tutto inaspettato.",
+            "popularity": 72.298,
+            "poster_path": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+            "release_date": "2026-10-02",
             "softcore": false,
             "video": false,
-            "vote_average": 7.607,
-            "vote_count": 15737,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-            "genre_ids": [
-                80,
-                28,
-                53
-            ],
-            "id": 1621552,
-            "title": "La captura",
-            "original_language": "es",
-            "original_title": "La captura",
-            "overview": "Messico, 2016. Due poliziotti incrociano l'obiettivo di un'operazione militare finita male. Si tratta di uno dei killer pi\u00f9 pericolosi al mondo al soldo di un cartello criminale.",
-            "popularity": 80.8496,
-            "poster_path": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
-            "release_date": "2026-08-21",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.792,
-            "vote_count": 816,
+            "vote_average": 7.331,
+            "vote_count": 62,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -194,42 +170,64 @@
             "original_language": "en",
             "original_title": "Interstellar",
             "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
-            "popularity": 73.4799,
+            "popularity": 67.5512,
             "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
             "release_date": "2014-11-05",
             "softcore": false,
             "video": false,
-            "vote_average": 8.488,
-            "vote_count": 41283,
+            "vote_average": 8.49,
+            "vote_count": 41386,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+            "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
             "genre_ids": [
-                18,
-                10749,
-                35
+                16,
+                28,
+                14
             ],
-            "id": 1408162,
-            "title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
-            "original_language": "ta",
-            "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
-            "overview": "",
-            "popularity": 61.5033,
-            "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-            "release_date": "2026-08-14",
+            "id": 1311031,
+            "title": "Demon Slayer: Il Castello dell'Infinito - Parte 1",
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765",
+            "overview": "Tanjiro Kamado \u00e8 un ragazzo unitosi a un\u2019organizzazione dedita alla caccia dei demoni chiamata Squadra dei cacciatori di demoni dopo che la sorella minore Nezuko \u00e8 diventata una di questi mostri. Acquisendo sempre pi\u00f9 forza e approfondendo i legami di amicizia con i suoi compagni, Tanjiro ha combattuto molti demoni con i suoi compagni Zenitsu Agatsuma e Inosuke Hashibira. Con il capo della Squadra dei cacciatori di demoni in pericolo, Tanjiro e i Pilastri accorrono al quartier generale, dove per\u00f2 per mano di Muzan Kibutsuji precipitano in un luogo misterioso. Lo spazio in cui Tanjiro e la Squadra dei cacciatori di demoni sono piombati \u00e8 la fortezza dei demoni: il Castello dell'Infinito. Il campo di battaglia \u00e8 pronto e lo scontro finale tra la Squadra dei cacciatori di demoni e i demoni si accende.",
+            "popularity": 60.2989,
+            "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+            "release_date": "2025-07-18",
             "softcore": false,
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 29,
+            "vote_average": 8.8,
+            "vote_count": 2245,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+            "backdrop_path": "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "id": 335984,
+            "title": "Blade Runner 2049",
+            "original_language": "en",
+            "original_title": "Blade Runner 2049",
+            "overview": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che \u00e8 rimasto della societ\u00e0. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
+            "popularity": 56.9937,
+            "poster_path": "/4XJQG11Ytl8mKfgbl2jkoY5ZuFX.jpg",
+            "release_date": "2017-10-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 15786,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
             "genre_ids": [
                 16,
                 10751,
@@ -241,13 +239,13 @@
             "original_language": "en",
             "original_title": "Toy Story 5",
             "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-            "popularity": 186.2877,
-            "poster_path": "/pbSlkjpduOmjPOI3XowK9fqomEM.jpg",
+            "popularity": 164.6966,
+            "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.326,
-            "vote_count": 2361,
+            "vote_average": 8.3,
+            "vote_count": 2500,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -264,13 +262,13 @@
             "original_language": "en",
             "original_title": "Avengers: Endgame",
             "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
-            "popularity": 121.8788,
+            "popularity": 106.1704,
             "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
             "release_date": "2019-04-24",
             "softcore": false,
             "video": false,
-            "vote_average": 8.245,
-            "vote_count": 28813,
+            "vote_average": 8.246,
+            "vote_count": 28915,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -287,42 +285,19 @@
             "original_language": "en",
             "original_title": "Avengers: Infinity War",
             "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
-            "popularity": 99.9965,
+            "popularity": 87.2722,
             "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
             "release_date": "2018-04-25",
             "softcore": false,
             "video": false,
-            "vote_average": 8.244,
-            "vote_count": 32996,
+            "vote_average": 8.2,
+            "vote_count": 33069,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
-            "genre_ids": [
-                28,
-                12,
-                878
-            ],
-            "id": 1228710,
-            "title": "Star Wars: The Mandalorian and Grogu",
-            "original_language": "en",
-            "original_title": "The Mandalorian and Grogu",
-            "overview": "L\u2019Impero \u00e8 caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ci\u00f2 per cui l\u2019Alleanza Ribelle ha combattuto, ha arruolato l\u2019aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
-            "popularity": 80.0038,
-            "poster_path": "/4v442cNP1nOhjjmf2l4Id2oWeR.jpg",
-            "release_date": "2026-05-20",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.465,
-            "vote_count": 1733,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+            "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
             "genre_ids": [
                 878,
                 12,
@@ -333,15 +308,62 @@
             "original_language": "en",
             "original_title": "Avatar: Fire and Ash",
             "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
-            "popularity": 75.6257,
+            "popularity": 79.6223,
             "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
             "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
             "vote_average": 7.6,
-            "vote_count": 4392,
+            "vote_count": 4447,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                9648,
+                10751
+            ],
+            "id": 1084242,
+            "title": "Zootropolis 2",
+            "original_language": "en",
+            "original_title": "Zootopia 2",
+            "overview": "Dopo aver risolto il caso pi\u00f9 importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non \u00e8 cos\u00ec solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza \"Partners in Crisis\". Ma non ci vuole molto perch\u00e9 la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali.",
+            "popularity": 90.9081,
+            "poster_path": "/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
+            "release_date": "2025-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 3518,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 1377237,
+            "title": "The Rush - Corsa contro il tempo",
+            "original_language": "en",
+            "original_title": "Runner",
+            "overview": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
+            "popularity": 284.8046,
+            "poster_path": "/y2JldODg7WqeAZC9MRKshA2hSmq.jpg",
+            "release_date": "2026-09-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 394,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
         {
             "adult": false,
@@ -355,57 +377,13 @@
             "original_language": "en",
             "original_title": "The Love Hypothesis",
             "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
-            "popularity": 312.6731,
+            "popularity": 177.1075,
             "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.26,
-            "vote_count": 279,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-            "genre_ids": [
-                10749,
-                53
-            ],
-            "id": 1440098,
-            "title": "Marfil - gli opposti",
-            "original_language": "es",
-            "original_title": "Enfrentados: Marfil",
-            "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando \u00e8 rapita e liberata senza spiegazione. Suo padre assume Sebasti\u00e1n Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente \u00e8 ci\u00f2 che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
-            "popularity": 128.6709,
-            "poster_path": "/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
-            "release_date": "2026-09-09",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.626,
-            "vote_count": 127,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-            "genre_ids": [
-                878,
-                12
-            ],
-            "id": 687163,
-            "title": "L'ultima missione: Project Hail Mary",
-            "original_language": "en",
-            "original_title": "Project Hail Mary",
-            "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
-            "popularity": 101.9608,
-            "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
-            "release_date": "2026-03-15",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.64,
-            "vote_count": 7994,
+            "vote_average": 8.067,
+            "vote_count": 490,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -421,35 +399,57 @@
             "original_language": "en",
             "original_title": "War of the Worlds",
             "overview": "",
-            "popularity": 99.5664,
+            "popularity": 93.6788,
             "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
             "release_date": "2025-07-29",
             "softcore": false,
             "video": false,
-            "vote_average": 4.024,
-            "vote_count": 1150,
+            "vote_average": 4.038,
+            "vote_count": 1162,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
         {
             "adult": false,
-            "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+            "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
             "genre_ids": [
-                10749,
-                18
+                878,
+                12
             ],
-            "id": 1641629,
-            "title": "Io+Te - Soli contro tutti",
-            "original_language": "fr",
-            "original_title": "Toi+Moi - Seuls contre tous",
-            "overview": "Alma Lancaster conduce una vita apparentemente perfetta in una famiglia benestante, convinta che stia studiando legge. In segreto, per\u00f2, coltiva il suo vero sogno: il cinema. All'universit\u00e0 per\u00f2 incontra Vadim Arcadi, un solitario ribelle e carismatico con un passato travagliato.",
-            "popularity": 97.3457,
-            "poster_path": "/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg",
-            "release_date": "2026-09-18",
+            "id": 687163,
+            "title": "L'ultima missione: Project Hail Mary",
+            "original_language": "en",
+            "original_title": "Project Hail Mary",
+            "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
+            "popularity": 93.9521,
+            "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+            "release_date": "2026-03-15",
             "softcore": false,
             "video": false,
-            "vote_average": 5.654,
-            "vote_count": 52,
+            "vote_average": 8.637,
+            "vote_count": 8149,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "id": 1440098,
+            "title": "Marfil - gli opposti",
+            "original_language": "es",
+            "original_title": "Enfrentados: Marfil",
+            "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando \u00e8 rapita e liberata senza spiegazione. Suo padre assume Sebasti\u00e1n Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente \u00e8 ci\u00f2 che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
+            "popularity": 65.2853,
+            "poster_path": "/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
+            "release_date": "2026-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.91,
+            "vote_count": 178,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -469,14 +469,6 @@
                 "ep_title": "Spider-Man: Brand New Day",
                 "url": "https://vixcloud.co/playlist/777603?b=1&token=6f8fb3001c6604e1ab59c5aed104aecb&expires=1795086640&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg"
-            }
-        ],
-        "1621552": [
-            {
-                "ep_id": "1621552",
-                "ep_title": "La captura",
-                "url": "https://vixcloud.co/playlist/780955?token=bfc515b47d2b7e9748e61336511dff43&expires=1795086643&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg"
             }
         ],
         "157336": [
@@ -501,14 +493,6 @@
                 "ep_title": "Avengers: Infinity War",
                 "url": "https://vixcloud.co/playlist/262859?b=1&token=83439bc57ff4fd4c941363157386adb7&expires=1795086653&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/t24aimjQLa0dyoZQEbSws7XK1U0.jpg"
-            }
-        ],
-        "1228710": [
-            {
-                "ep_id": "1228710",
-                "ep_title": "Star Wars: The Mandalorian and Grogu",
-                "url": "https://vixcloud.co/playlist/775410?token=9ae67e0cfcbbc183668ba4343f5a9660&expires=1795086655&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/4v442cNP1nOhjjmf2l4Id2oWeR.jpg"
             }
         ],
         "83533": [
@@ -1097,15 +1081,6 @@
                 "url": "https://vixcloud.co/playlist/263200?b=1&token=1f1a02b40d44ea30720b0bd07d2c851a&expires=1795111313&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/tDYG0QPL54nUKDUoBPdvtsmzbBI.jpg",
                 "plot": "La vita di Wade Wilson, che ha ormai smesso di fare il mercenario in costume, non ha preso una bella piega. Negli ultimi anni la sua compagna l'ha lasciato e ora sta frequentando un altro uomo; al lavoro, come venditore di auto al fianco di Peter, gli affari arrancano; il colloquio per entrare negli Avengers \u00e8 andato malissimo. Ci\u00f2 nonostante Wade ha ancora i suoi amici intorno e, quando la TVA lo rapisce e gli comunica che la sua linea temporale sta per essere cancellata, ecco che Wade torna a mettere i panni di Deadpool e si lancia in una assurda impresa, per cui ha assolutamente bisogno di collaborare con una variante di Wolverine. Dopo diversi tentativi abortiti, trova un Logan depresso dai molti fallimenti e lo porta con s\u00e9 per fermare la TVA, che per\u00f2 li esilia entrambi nel 'vuoto', un'apocalittica dimensione dominata da Alioth (una grande tempesta dal volto di lupo) e da Cassandra Nova, la folle e potentissima gemella di Charles Xavier."
-            }
-        ],
-        "1641629": [
-            {
-                "ep_id": "1641629",
-                "ep_title": "Io+Te - Soli contro tutti (2026) - \u2b50 5.6",
-                "url": "https://vixcloud.co/playlist/788161?b=1&token=8344a2bad726e94e1077869b05514535&expires=1795277640&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg",
-                "plot": "Alma Lancaster conduce una vita apparentemente perfetta in una famiglia benestante, convinta che stia studiando legge. In segreto, per\u00f2, coltiva il suo vero sogno: il cinema. All'universit\u00e0 per\u00f2 incontra Vadim Arcadi, un solitario ribelle e carismatico con un passato travagliato."
             }
         ],
         "361743": [
@@ -2478,6 +2453,42 @@
                 "plot": "Resi pi\u00f9 forti dalle difficolt\u00e0 che hanno affrontato, gli amici lasciano il liceo e guardano al futuro in un intenso episodio finale della serie.",
                 "season_num": 4,
                 "raw_title": "Tredici"
+            }
+        ],
+        "1284046": [
+            {
+                "ep_id": "1284046",
+                "ep_title": "Onslaught - Assalto finale (2026) - \u2b50 5.8",
+                "url": "https://vixcloud.co/playlist/786003?token=9a63a146eee8353b64287b9325dfa262&expires=1796478126&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/ifrboaovWTOPA2KOenwQ0VyHqbo.jpg",
+                "plot": "Quando una squadra di supersoldati geneticamente modificati fuori controllo evade da una base governativa segreta e si scatena nel deserto del New Mexico, un\u2019ex cecchina dell\u2019esercito dovr\u00e0 tornare a essere la temibile combattente di un tempo per proteggere sua figlia e sopravvivere al loro infernale assalto."
+            }
+        ],
+        "1248832": [
+            {
+                "ep_id": "1248832",
+                "ep_title": "Digger (2026) - \u2b50 7.5",
+                "url": "https://vixcloud.co/playlist/792445?token=8c53b67f4898e56b1acb0649d8ee4fee&expires=1796478129&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+                "plot": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda."
+            }
+        ],
+        "1458857": [
+            {
+                "ep_id": "1458857",
+                "ep_title": "Doing Life (2026) - \u2b50 7.3",
+                "url": "https://vixcloud.co/playlist/792367?b=1&token=172722c12ba48322e97425de53d50707&expires=1796478131&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+                "plot": "Una madre single, che ogni singolo giorno lotta con tutta se stessa per rimanere a galla, incontra un ex detenuto pentito - ricco di talenti inespressi - e con lui forma un legame del tutto inaspettato."
+            }
+        ],
+        "1084242": [
+            {
+                "ep_id": "1084242",
+                "ep_title": "Zootropolis 2 (2025) - \u2b50 7.7",
+                "url": "https://vixcloud.co/playlist/640562?token=e9ef000e71f083ff178a3f5f3ab93d8a&expires=1796478135&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
+                "plot": "Dopo aver risolto il caso pi\u00f9 importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non \u00e8 cos\u00ec solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza 'Partners in Crisis'. Ma non ci vuole molto perch\u00e9 la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali."
             }
         ]
     }
