@@ -3,29 +3,6 @@
     "trends": [
         {
             "adult": false,
-            "backdrop_path": "/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
-            "id": 969681,
-            "title": "Spider-Man: Brand New Day",
-            "original_title": "Spider-Man: Brand New Day",
-            "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter \u00e8 ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce pi\u00f9 il suo nome, si \u00e8 dedicato interamente alla protezione della sua citt\u00e0. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, d\u00e0 origine a una delle minacce pi\u00f9 potenti che abbia mai affrontato.",
-            "poster_path": "/fRbJeDILi6nLYCT5XeFapjVTlSK.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                878,
-                28,
-                12
-            ],
-            "popularity": 719.5221,
-            "release_date": "2026-07-29",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.118,
-            "vote_count": 3620,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
             "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
             "id": 1291595,
             "title": "Insidious - Fuori dall\u2019Altrove",
@@ -461,14 +438,6 @@
                 "ep_title": "Resident Evil",
                 "url": "https://vixcloud.co/playlist/788362?token=95100c3890a8452abd4df804918ea1f0&expires=1795086631&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg"
-            }
-        ],
-        "969681": [
-            {
-                "ep_id": "969681",
-                "ep_title": "Spider-Man: Brand New Day",
-                "url": "https://vixcloud.co/playlist/777603?b=1&token=6f8fb3001c6604e1ab59c5aed104aecb&expires=1795086640&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg"
             }
         ],
         "157336": [
