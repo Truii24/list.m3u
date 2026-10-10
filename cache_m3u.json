@@ -277,29 +277,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-            "genre_ids": [
-                12,
-                878,
-                28
-            ],
-            "id": 299534,
-            "title": "Avengers: Endgame",
-            "original_language": "en",
-            "original_title": "Avengers: Endgame",
-            "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
-            "popularity": 92.3413,
-            "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-            "release_date": "2019-04-24",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.245,
-            "vote_count": 28959,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
             "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
             "genre_ids": [
                 12,
