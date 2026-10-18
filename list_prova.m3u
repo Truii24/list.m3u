@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DB 02" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_02_ITA.mp4?token=s9lWNFSNonLeOQAqhgdxDg&expires=1792395876
+#EXTINF:-1 tvg-id="DB 03" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_03_ITA.mp4?token=S30m4lSKp8IXyugzVXkoYw&expires=1792396270
+#EXTINF:-1 tvg-id="DB 04" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_04_ITA.mp4?token=JoyveLs0dN3WOhn9-wncnQ&expires=1792396261
+#EXTINF:-1 tvg-id="DB 05" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_05_ITA.mp4?token=aNfObHdLwBgkjse3Qgizvg&expires=1792396235
+#EXTINF:-1 tvg-id="DB 06" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_06_ITA.mp4?token=O5s4QQgTD5ecp8rXv-pY-Q&expires=1792396285
+#EXTINF:-1 tvg-id="DB 07" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_07_ITA.mp4?token=m7Yasd5CpjDZEOV0Q346lA&expires=1792396264
+#EXTINF:-1 tvg-id="DB 08" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_08_ITA.mp4?token=lCqD372ePieL6NlghPSBiQ&expires=1792396278
+#EXTINF:-1 tvg-id="DB 09" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_09_ITA.mp4?token=8Pw7yZzN3Etwkp6zVfFz2w&expires=1792396254
+#EXTINF:-1 tvg-id="DB 10" tvg-name="Daima" tvg-logo=""
+https://srv18.onsen.streampeaker.org/DDL/ANIME/DragonBallDaimaITA/DragonBallDaima_Ep_10_ITA.mp4?token=u_K0U1xVtjvaw0wb9KWx_g&expires=1792396241
 #EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/o6IvnjWsAjPja21JA1EHo0XcYTy.jpg" group-title="🎯 Le Mie Scelte - Film" description="", The Avengers
 https://vixcloud.co/playlist/204303?b=1&token=8ca39e0af5e86aa66da90c2331ff9c6e&expires=1795086673&h=1&scz=1&lang=it
 #EXTINF:-1 tvg-id="1560520" tvg-name="Batman: Knightfall Part 1: Knightfall" tvg-logo="https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="🎯 Le Mie Scelte - Film" description="", Batman: Knightfall Part 1: Knightfall
