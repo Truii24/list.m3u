@@ -1,1 +1,323 @@
-
+{
+    "m3u_data": {
+        "1423191": [
+            {
+                "ep_id": "1423191",
+                "ep_title": "Resident Evil (2026) - \u2b50 7.3",
+                "url": "https://vixcloud.cc/playlist/790689?token=7b1120c18035dd0658b2a922aa0a5481&expires=1797715945&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+                "plot": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui."
+            }
+        ],
+        "533535": [
+            {
+                "ep_id": "533535",
+                "ep_title": "Deadpool & Wolverine (2024) - \u2b50 7.6",
+                "url": "https://vixcloud.cc/playlist/263200?token=8a60b3564cc416dd43dfe84973b243a0&expires=1797715947&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tDYG0QPL54nUKDUoBPdvtsmzbBI.jpg",
+                "plot": "La vita di Wade Wilson, che ha ormai smesso di fare il mercenario in costume, non ha preso una bella piega. Negli ultimi anni la sua compagna l'ha lasciato e ora sta frequentando un altro uomo; al lavoro, come venditore di auto al fianco di Peter, gli affari arrancano; il colloquio per entrare negli Avengers \u00e8 andato malissimo. Ci\u00f2 nonostante Wade ha ancora i suoi amici intorno e, quando la TVA lo rapisce e gli comunica che la sua linea temporale sta per essere cancellata, ecco che Wade torna a mettere i panni di Deadpool e si lancia in una assurda impresa, per cui ha assolutamente bisogno di collaborare con una variante di Wolverine. Dopo diversi tentativi abortiti, trova un Logan depresso dai molti fallimenti e lo porta con s\u00e9 per fermare la TVA, che per\u00f2 li esilia entrambi nel 'vuoto', un'apocalittica dimensione dominata da Alioth (una grande tempesta dal volto di lupo) e da Cassandra Nova, la folle e potentissima gemella di Charles Xavier."
+            }
+        ],
+        "24428": [
+            {
+                "ep_id": "24428",
+                "ep_title": "The Avengers (2012) - \u2b50 8.1",
+                "url": "https://vixcloud.cc/playlist/204303?token=36007bedd35e1a77b738e89ec3ccf598&expires=1797715951&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/o6IvnjWsAjPja21JA1EHo0XcYTy.jpg",
+                "plot": "I supereroi pi\u00f9 famosi si riuniscono in una squadra di personaggi Marvel leggendari come Iron Man, l'incredibile Hulk, Thor, Captain America, Occhio di Falco e Vedova Nera. Quando la comparsa di un nemico inatteso minaccia la tranquillit\u00e0 e la sicurezza del mondo, Nick Fury, direttore dell'agenzia internazionale per il mantenimento della pace conosciuta come S.H.I.E.L.D., si trova ad aver bisogno di una squadra che salvi il pianeta dall'orlo del disastro. Inizia cos\u00ec, da un capo all'altro della terra, un audace lavoro di reclutamento. Dopo aver riunito la squadra, Nick Fury e il suo fidato assistente, l'Agente Coulson, dovranno convincere i supereroi a convivere e lavorare insieme, utilizzando i loro incredibili poteri contro il pericoloso Loki che \u00e8 riuscito ad accedere al Tesseract e ai suoi poteri illimitati."
+            }
+        ],
+        "1560520": [
+            {
+                "ep_id": "1560520",
+                "ep_title": "Batman: Knightfall Part 1: Knightfall (2026) - \u2b50 9.1",
+                "url": "https://vixcloud.cc/playlist/784018?token=d4740020dda48eec5d5de246f10071ea&expires=1797715952&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+                "plot": ""
+            }
+        ],
+        "1204680": [
+            {
+                "ep_id": "1204680",
+                "ep_title": "Coyote vs. Acme (2026) - \u2b50 7.5",
+                "url": "https://vixcloud.cc/playlist/785563?token=316732f2e514f1e26cef44b953cf3266&expires=1797715954&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+                "plot": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si \u00e8 ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme."
+            }
+        ],
+        "273207": [
+            {
+                "ep_id": "273207_S01E01",
+                "ep_title": "Neagley - S01E01 - Metro L (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787580?token=ca8519e81f33e51d89ae85371793a6c0&expires=1797715956&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Tommy, un amico d'infanzia di Neagley, muore dopo essere stato investito da un treno in arrivo, e la polizia \u00e8 pronta ad archiviare il caso come un incidente. Ma dopo aver ricevuto un misterioso messaggio dall'amico defunto, Neagley capisce che c'\u00e8 qualcosa che non quadra.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E02",
+                "ep_title": "Neagley - S01E02 - Esercizi di Team Building (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787581?token=e921cfc95cf7d506048d7ba57355c67b&expires=1797715958&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Mentre le indagini sulla morte sospetta del suo amico d'infanzia Tommy Crane si imbattono in numerosi ostacoli, Neagley si ritrova ad avere a che fare con un segreto relativo al suo passato, a lungo rimasto sepolto, che minaccia di sconvolgere tutto ci\u00f2 che sapeva della sua infanzia.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E03",
+                "ep_title": "Neagley - S01E03 - Ora di agire (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787582?token=da6ddad67fe237af88040d20f181c4f4&expires=1797715959&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Il caso ha una svolta dopo un'imboscata, ma Neagley viene colta di sorpresa dai tentativi delle forze dell'ordine locali di metterla fuori gioco.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E04",
+                "ep_title": "Neagley - S01E04 - Effrazione (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787583?token=92368b62d5a5bdcdfd1e30f3aadf9ddf&expires=1797715961&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "L'indagine di Neagley sulla morte di Tommy attira l'attenzione di potenti nemici, e lei e la sua squadra si trovano ora in pericolo.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E05",
+                "ep_title": "Neagley - S01E05 - Gita (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787584?token=939f022efab276aeda57ec16d296d057&expires=1797715962&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Le verit\u00e0 nascoste sul passato di Neagley riemergono, costringendola a fare pi\u00f9 che mai affidamento sulla sua nuova squadra.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E06",
+                "ep_title": "Neagley - S01E06 - Shock (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787585?token=7ce47bf588b37cbb9326885f5911bfea&expires=1797715964&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Con l'emergere di nuove prove, Neagley scopre di avere la responsabilit\u00e0 di fare giustizia non solo per Tommy, ma anche per tante altre persone.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E07",
+                "ep_title": "Neagley - S01E07 - Lebron non \u00e8 Jordan (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/788222?token=2f4b3181c9e679c2200c171376f10ffc&expires=1797715965&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Gli indizi scarseggiano e Hudson \u00e8 costretto a stringere un patto con il diavolo per evitare che il caso cada nel dimenticatoio.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            },
+            {
+                "ep_id": "273207_S01E08",
+                "ep_title": "Neagley - S01E08 - Emozione (\u2b50 8.1)",
+                "url": "https://vixcloud.cc/playlist/787587?token=3314836385c59ad2699b1ab5914607ce&expires=1797715967&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg",
+                "plot": "Il nome del suo defunto amico d'infanzia va difeso e la vita dei suoi compagni \u00e8 in pericolo, perci\u00f2 Neagley si prepara a un'ultima disperata battaglia per assicurare alla giustizia gli assassini di Tommy.",
+                "season_num": 1,
+                "raw_title": "Neagley"
+            }
+        ],
+        "1084244": [
+            {
+                "ep_id": "1084244",
+                "ep_title": "Toy Story 5 (2026) - \u2b50 8.3",
+                "url": "https://vixcloud.cc/playlist/780244?token=6a31ce0ab6c1d9b9820cb06c10849e96&expires=1797715968&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+                "plot": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco."
+            }
+        ],
+        "1339713": [
+            {
+                "ep_id": "1339713",
+                "ep_title": "Obsession (2026) - \u2b50 8.2",
+                "url": "https://vixcloud.cc/playlist/767555?token=666bc12f80cc6fbdb8496f01d9ceeaaa&expires=1797715970&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
+                "plot": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ci\u00f2 che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso."
+            }
+        ],
+        "1288445": [
+            {
+                "ep_id": "1288445",
+                "ep_title": "Mutiny - Inverti la rotta (2026) - \u2b50 7.6",
+                "url": "https://vixcloud.cc/playlist/787159?token=9995030863c9c3b776b9e9648d165aee&expires=1797715971&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+                "plot": "Jason Statham, nei panni dell\u2019ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l\u2019assassino del suo facoltoso datore di lavoro. In una spietata caccia all\u2019uomo Reed scopre che dietro l\u2019omicidio si nasconde molto di pi\u00f9 di un semplice regolamento di conti. Per arrivare alla verit\u00e0, dovr\u00e0 affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato."
+            }
+        ],
+        "273240": [
+            {
+                "ep_id": "273240_S01E01",
+                "ep_title": "Off Campus - S01E01 - Il contratto (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709762?token=199a70dc458e9b70ed03cb0e03bb76c1&expires=1797715973&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Una musicista e una star dell'hockey stringono un accordo per conquistare il ragazzo per cui lei ha una cotta e migliorare i voti di lui.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E02",
+                "ep_title": "Off Campus - S01E02 - L'allenamento (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709763?token=2f369d9c7673447cb97a012138442288&expires=1797715975&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "La finta relazione tra Hannah e Garrett viene messa alla prova quando i due sono costretti a dividere la stanza durante una festa in casa che dura tutta la notte.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E03",
+                "ep_title": "Off Campus - S01E03 - L'orgasmo (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709764?token=9f5c04690163522ba960f3d9180e21a6&expires=1797715976&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Proprio quando l'accordo tra Hannah e Garrett inizia a funzionare alla perfezione, Hannah alza la posta in gioco ridefinendone i termini.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E04",
+                "ep_title": "Off Campus - S01E04 - La rottura (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709765?token=78711d41e92c3152b7e081e5da0ba4e5&expires=1797715978&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Hannah e Garrett finiscono per avvicinarsi pi\u00f9 di quanto entrambi avessero previsto e la situazione si complica quando sono costretti a fare i conti con i propri sentimenti al Drunk Shakespeare.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E05",
+                "ep_title": "Off Campus - S01E05 - Il tacchino freddo (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709766?token=271d414ce71564ae9ca4b488fc277f9d&expires=1797715979&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Garrett porta Hannah a casa per il giorno del Ringraziamento, mentre Tucker organizza un epico Amiciziamento.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E06",
+                "ep_title": "Off Campus - S01E06 - Lo scontro (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709767?token=4534932cdc9fb8da7212bd5f5b1de30a&expires=1797715981&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Durante una raccolta fondi dedicata all'hockey, Garrett e Logan finiscono per scontrarsi, la collaborazione musicale tra Hannah e Justin incontra il suo ostacolo pi\u00f9 grande e l'amore inizia a sbocciare.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E07",
+                "ep_title": "Off Campus - S01E07 - Il faccia a faccia (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709768?token=23320de0eb71ec61b4855e5bc042ae48&expires=1797715982&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Hannah affronta il proprio passato, mentre Garrett si trova ad affrontare la partita pi\u00f9 difficile della stagione e Allie incontra la sua eroina.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            },
+            {
+                "ep_id": "273240_S01E08",
+                "ep_title": "Off Campus - S01E08 - Il cambio di formazione (\u2b50 8.9)",
+                "url": "https://vixcloud.cc/playlist/709769?token=f498a699653e4f63ed6e03339d206ae5&expires=1797715984&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+                "plot": "Con la fine del semestre, le ripercussioni della partita contro la St. Anthony mettono in difficolt\u00e0 gli Hawks, mentre Hannah cerca di trovare la propria voce.",
+                "season_num": 1,
+                "raw_title": "Off Campus"
+            }
+        ],
+        "1302904": [
+            {
+                "ep_id": "1302904",
+                "ep_title": "Amori & incantesimi 2 (2026) - \u2b50 7.0",
+                "url": "https://vixcloud.cc/playlist/794045?token=e36cb00754af257affbe5543878b151e&expires=1797715985&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
+                "plot": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l\u2019oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all\u2019insegna di divertimento, magia e caos."
+            }
+        ],
+        "980431": [
+            {
+                "ep_id": "980431",
+                "ep_title": "Avatar Aang: L\u2019ultimo dominatore dell\u2019aria (2026) - \u2b50 9.1",
+                "url": "https://vixcloud.cc/playlist/775243?token=93ff1d399eed0682faa1020b0cb56077&expires=1797715987&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/4Nil4DQfBGymHuL2Q9nQwg27orY.jpg",
+                "plot": "L'Avatar Aang, l'ultimo dominatore dell'aria, scopre un antico potere che potrebbe salvare la sua civilt\u00e0 dall'estinzione. Insieme ai suoi amici, deve trovarlo prima che cada nelle mani sbagliate e distrugga la pace per cui hanno sacrificato tutto."
+            }
+        ],
+        "361743": [
+            {
+                "ep_id": "361743",
+                "ep_title": "Top Gun: Maverick (2022) - \u2b50 8.2",
+                "url": "https://vixcloud.cc/playlist/775208?token=79868fc5a464416d2ffa1f48e65679bd&expires=1797715988&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/ygjXVgEALlUA5U8Ov5DhSJqJjUe.jpg",
+                "plot": "Dopo pi\u00f9 di trent\u2019anni di servizio nella Marina, il capitano Pete \u201cMaverick\u201d Mitchell si ritrova a essere quello che sognava, un pilota collaudatore che pu\u00f2 spingersi oltre ogni limite, schivando l\u2019avanzamento di carriera che metterebbe un freno alla sua libert\u00e0. Quando viene richiamato a addestrare i migliori allievi Top Gun per una missione di altissima specializzazione, Maverick incontra il tenente Bradley Bradshaw, nome in codice \u201cRooster\u201d, figlio del compianto \u201cGoose\u201d. Alle prese con un futuro incerto e con i fantasmi del passato, Maverick deve confrontarsi con le sue paure pi\u00f9 profonde, fino alla missione che richieder\u00e0 il sacrificio ultimo di quelli che sceglieranno di parteciparvi."
+            }
+        ],
+        "278": [
+            {
+                "ep_id": "278",
+                "ep_title": "Le ali della libert\u00e0 (1994) - \u2b50 8.7",
+                "url": "https://vixcloud.cc/playlist/776028?token=0dc1e9153f0216a19cc0a537f082e1c2&expires=1797715990&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/9OxcvTJwZDjQTFvY2NxiwnSrQS6.jpg",
+                "plot": "Siamo nel 1946. Processato per l'omicidio della moglie e del suo amante, Andy, un bancario del New England, viene condannato a un doppio ergastolo e recluso nel penitenziario di Shawshank. All'inizio \u00e8 vittima delle violenze dei reclusi, poi per\u00f2 diventa il consulente finanziario delle guardie. Scopre cos\u00ec che il direttore falsifica i libri contabili intestando i conti a un fittizio Randall Stevens. Fuggito di prigione attraverso un tunnel costruito negli anni, Andy assume l'identit\u00e0 di Randall Stevens, denuncia il direttore e va in Messico."
+            }
+        ],
+        "969681": [
+            {
+                "ep_id": "969681",
+                "ep_title": "Spider-Man: Brand New Day (2026) - \u2b50 8.5",
+                "url": "https://vixcloud.cc/playlist/793125?token=b349306853e22f9b377707b9c84f6a2f&expires=1797715991&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+                "plot": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter \u00e8 ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce pi\u00f9 il suo nome, si \u00e8 dedicato interamente alla protezione della sua citt\u00e0. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, d\u00e0 origine a una delle minacce pi\u00f9 potenti che abbia mai affrontato."
+            }
+        ],
+        "1377237": [
+            {
+                "ep_id": "1377237",
+                "ep_title": "The Rush - Corsa contro il tempo (2026) - \u2b50 8.3",
+                "url": "https://vixcloud.cc/playlist/790822?token=e43f2452f4acd7d5fecef66284c48f92&expires=1797715993&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/y2JldODg7WqeAZC9MRKshA2hSmq.jpg",
+                "plot": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi."
+            }
+        ],
+        "299534": [
+            {
+                "ep_id": "299534",
+                "ep_title": "Avengers: Endgame (2019) - \u2b50 8.2",
+                "url": "https://vixcloud.cc/playlist/790572?token=ba3f140243630a9689bd348450b30a0b&expires=1797715994&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+                "plot": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia..."
+            }
+        ],
+        "363088": [
+            {
+                "ep_id": "363088",
+                "ep_title": "Ant-Man and the Wasp (2018) - \u2b50 6.9",
+                "url": "https://vixcloud.cc/playlist/780240?token=3b92a235134ff2580a0fd55aa6970d2a&expires=1797715996&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lNs2tFWH7OMJzhF2sLBsQA2MNrM.jpg",
+                "plot": "Alle prese con la ricerca di un equilibrio tra la sua vita privata e le responsabilit\u00e0 di supereroe, Scott Lang si ritrova ancora una volta ad indossare i panni di Ant-Man e insieme a Hope van Dyne, in arte Wasp, andr\u00e0 alla scoperta di incredibili segreti del passato."
+            }
+        ],
+        "1248832": [
+            {
+                "ep_id": "1248832",
+                "ep_title": "Digger (2026) - \u2b50 7.5",
+                "url": "https://vixcloud.cc/playlist/793381?token=1b84832d9baf4739c530982c5576c69e&expires=1797715997&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+                "plot": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda."
+            }
+        ],
+        "1314481": [
+            {
+                "ep_id": "1314481",
+                "ep_title": "Il diavolo veste Prada 2 (2026) - \u2b50 7.0",
+                "url": "https://vixcloud.cc/playlist/775784?token=32464e106d0e5b4364c30f0682ebf717&expires=1797716001&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/6rvfeLdpAz5KsvHi7RtFSQCdk2q.jpg",
+                "plot": "Andy Sachs torna a Runway mentre Miranda Priestly naviga in un nuovo panorama mediatico mantenendo la sua posizione in Runway. Entrambe riallacciano i contatti con l'ex assistente Emily Charlton, ora a capo di un marchio di lusso con finanziamenti che potrebbero garantire la sopravvivenza di Runway."
+            }
+        ],
+        "1007757": [
+            {
+                "ep_id": "1007757",
+                "ep_title": "Swapped - Al tuo posto (2026) - \u2b50 8.9",
+                "url": "https://vixcloud.cc/playlist/701146?token=8bc65aa9c270dc28b616361454a233e4&expires=1797716003&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/uCRXsCpMZJDrxAAXJC2xHOz6r9T.jpg",
+                "plot": "Una piccola creatura del bosco e un maestoso uccello si scambiano improvvisamente di corpo e devono fare squadra per sopravvivere all'avventura pi\u00f9 folle della loro vita."
+            }
+        ]
+    }
+}
